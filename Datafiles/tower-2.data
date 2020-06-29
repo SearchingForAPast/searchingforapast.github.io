@@ -1,0 +1,138 @@
+0
+11
+-2
+11
+Tower.mp3
+Decoration	-	stairs_down_tower.png	5.0	10.0		false		
+Decoration	-	stairs_up_tower.png	0.0	0.0		false		
+
+Base	-	brick.png	0.0	-1.0		
+LoadNew	from-tower-3	brick.png	0.0	0.0		tower-3		
+Base	-	brick.png	0.0	1.0		
+TeleportPad	7_a	teleportpad.png	0.0	2.0		
+Base	-	brick.png	0.0	3.0		
+Base	-	brick.png	0.0	4.0		
+Wall	-	Bookcase.png	0.0	5.0		
+Base	-	brick.png	0.0	6.0		
+Base	-	brick.png	0.0	7.0		
+Base	-	brick.png	0.0	8.0		
+Base	-	brick.png	0.0	9.0		
+Base	-	brick.png	1.0	-1.0		
+Base	-	brick.png	1.0	0.0		
+Base	-	brick.png	1.0	1.0		
+Base	-	brick.png	1.0	2.0		
+Base	-	brick.png	1.0	3.0		
+Base	-	brick.png	1.0	4.0		
+TeleportPad	6_a	teleportpad.png	1.0	5.0		
+Base	-	brick.png	1.0	6.0		
+Base	-	brick.png	1.0	7.0		
+Base	-	brick.png	1.0	8.0		
+Base	-	brick.png	1.0	9.0		
+Wall	-	Bookcase.png	2.0	-1.0		
+Wall	-	Bookcase.png	2.0	0.0		
+Wall	-	Table.png	2.0	1.0		
+Wall	-	Bookcase.png	2.0	2.0		
+Wall	-	Bookcase.png	2.0	3.0		
+Wall	-	Bookcase.png	2.0	4.0		
+Wall	-	Cauldron.png	2.0	5.0		
+Base	-	brick.png	2.0	6.0		
+Base	-	brick.png	2.0	7.0		
+TeleportPad	5_B	teleportpad.png	2.0	8.0		
+Base	-	brick.png	2.0	9.0		
+Base	-	brick.png	3.0	-1.0		
+Base	-	brick.png	3.0	0.0		
+Base	-	brick.png	3.0	1.0		
+MovePad	-	movepadright.png	3.0	2.0		2	0		
+Base	-	brick.png	3.0	3.0		
+Base	-	brick.png	3.0	4.0		
+TeleportPad	6_B	teleportpad.png	3.0	5.0		
+Wall	-	Bookcase.png	3.0	6.0		
+Wall	-	Bookcase.png	3.0	7.0		
+Wall	-	Bookcase.png	3.0	8.0		
+Wall	-	Bookcase.png	3.0	9.0		
+Base	-	brick.png	4.0	-1.0		
+Base	-	brick.png	4.0	0.0		
+MovePad	-	movepaddown.png	4.0	1.0		0	2		
+TeleportPad	5_A	teleportpad.png	4.0	2.0		
+MovePad	-	movepadup.png	4.0	3.0		0	-2		
+Base	-	brick.png	4.0	4.0		
+Wall	-	Table.png	4.0	5.0		
+TeleportPad	1_A	teleportpad.png	4.0	6.0		
+Base	-	brick.png	4.0	7.0		
+Base	-	brick.png	4.0	8.0		
+TeleportPad	7_B	teleportpad.png	4.0	9.0		
+Base	-	brick.png	5.0	-1.0		
+Base	-	brick.png	5.0	0.0		
+Base	-	brick.png	5.0	1.0		
+MovePad	-	movepadleft.png	5.0	2.0		-2	0		
+Base	-	brick.png	5.0	3.0		
+Base	-	brick.png	5.0	4.0		
+Wall	-	Bookcase.png	5.0	5.0		
+Base	-	brick.png	5.0	6.0		
+Base	-	brick.png	5.0	7.0		
+Base	-	brick.png	5.0	8.0		
+Base	From-overworld	brick.png	5.0	9.0		
+LoadNew	From-tower-1;from-Start	brick.png	5.0	10.0		tower-1		
+Base	-	brick.png	6.0	-1.0		
+Base	-	brick.png	6.0	0.0		
+Base	-	brick.png	6.0	1.0		
+Base	-	brick.png	6.0	2.0		
+Base	-	brick.png	6.0	3.0		
+Base	-	brick.png	6.0	4.0		
+Wall	-	Bookcase.png	6.0	5.0		
+TeleportPad	2_A	teleportpad.png	6.0	6.0		
+Base	-	brick.png	6.0	7.0		
+Base	-	brick.png	6.0	8.0		
+Base	-	brick.png	6.0	9.0		
+Base	-	brick.png	7.0	-1.0		
+Base	-	brick.png	7.0	0.0		
+Base	-	brick.png	7.0	1.0		
+Base	-	brick.png	7.0	2.0		
+Base	-	brick.png	7.0	3.0		
+Base	-	brick.png	7.0	4.0		
+Base	-	brick.png	7.0	5.0		
+Wall	-	Cauldron.png	7.0	6.0		
+Wall	-	Bookcase.png	7.0	7.0		
+Wall	-	Bookcase.png	7.0	8.0		
+Wall	-	Bookcase.png	7.0	9.0		
+Wall	-	Bookcase.png	8.0	-1.0		
+Wall	-	Bookcase.png	8.0	0.0		
+Wall	-	Cauldron.png	8.0	1.0		
+TeleportPad	4_a	teleportpad.png	8.0	2.0		
+Wall	-	Table.png	8.0	3.0		
+Wall	-	Bookcase.png	8.0	4.0		
+Wall	-	Bookcase.png	8.0	5.0		
+Base	-	brick.png	8.0	6.0		
+Base	-	brick.png	8.0	7.0		
+TeleportPad	3_A	teleportpad.png	8.0	8.0		
+Base	-	brick.png	8.0	9.0		
+Base	-	brick.png	9.0	-1.0		
+Base	-	brick.png	9.0	0.0		
+Base	-	brick.png	9.0	1.0		
+Base	-	brick.png	9.0	2.0		
+Base	-	brick.png	9.0	3.0		
+Base	-	brick.png	9.0	4.0		
+Wall	-	Bookcase.png	9.0	5.0		
+TeleportPad	2_B	teleportpad.png	9.0	6.0		
+Base	-	brick.png	9.0	7.0		
+Base	-	brick.png	9.0	8.0		
+Base	-	brick.png	9.0	9.0		
+TeleportPad	4_B	teleportpad.png	10.0	-1.0		
+Base	-	brick.png	10.0	0.0		
+Base	-	brick.png	10.0	1.0		
+TeleportPad	1_B	teleportpad.png	10.0	2.0		
+Base	-	brick.png	10.0	3.0		
+TeleportPad	3_B	teleportpad.png	10.0	4.0		
+Wall	-	Bookcase.png	10.0	5.0		
+MovePad	-	movepadleft.png	10.0	6.0		-4	0		
+Base	-	brick.png	10.0	7.0		
+Base	-	brick.png	10.0	8.0		
+Base	-	brick.png	10.0	9.0		
+
+
+Character	-	down-Wizard.png	0.0	3.0		This will take you back to the entrance, if you decide these are getting too difficult for you.;Well, it'll take you back to the entrance even if you don't decide that too.	   Wizard		
+Boulder	-	SpellBook.png	5.0	7.0		
+Character	-	down-Wizard.png	9.0	3.0		This teleporter only goes one way.;If you step on the other side, you won't go back here.;But if you put a book on it, you can walk over it.	 Wizard		
+Boulder	-	SpellBook.png	9.0	7.0		
+Character	-	down-Wizard.png	10.0	9.0		If you push the books on the teleport pad, they will prevent you from walking through it.;However, if you use one of the arrow pads to push it through, it will keep moving after it goes through.	 Wizard		
+

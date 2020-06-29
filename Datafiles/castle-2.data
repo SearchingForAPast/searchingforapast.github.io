@@ -1,0 +1,157 @@
+-2
+13
+-6
+15
+Castle.mp3
+Decoration	-	stairs.png	5.0	-2.0		false		
+Decoration	-	stairs_up_castle.png	5.0	14.0		false		
+
+Base	-	Castle_bricks.png	0.0	-6.0		
+Base	-	Castle_bricks.png	0.0	-5.0		
+Base	-	Castle_bricks.png	0.0	-4.0		
+Base	-	Castle_bricks.png	0.0	-3.0		
+Base	-	Castle_bricks.png	0.0	-2.0		
+Base	-	Castle_bricks.png	0.0	-1.0		
+Base	-	Castle_bricks.png	0.0	0.0		
+Base	-	Castle_bricks.png	0.0	1.0		
+Base	-	Castle_bricks.png	0.0	2.0		
+Base	-	Castle_bricks.png	0.0	3.0		
+Base	-	Castle_bricks.png	0.0	4.0		
+Base	-	Castle_bricks.png	0.0	5.0		
+Base	-	Castle_bricks.png	0.0	6.0		
+Base	-	Castle_bricks.png	0.0	7.0		
+Base	-	Castle_bricks.png	0.0	8.0		
+Base	-	Castle_bricks.png	0.0	9.0		
+Base	-	Castle_bricks.png	0.0	10.0		
+Base	-	Castle_bricks.png	0.0	11.0		
+Base	-	Castle_bricks.png	0.0	12.0		
+Base	-	Castle_bricks.png	0.0	13.0		
+Base	-	Castle_bricks.png	1.0	-6.0		
+CastleStone	-	IceStoneButton.png	1.0	-5.0		
+Base	-	Castle_bricks.png	1.0	-4.0		
+Base	-	Castle_bricks.png	1.0	-3.0		
+Base	-	Castle_bricks.png	1.0	-2.0		
+Base	-	Castle_bricks.png	1.0	-1.0		
+Base	-	Castle_bricks.png	1.0	0.0		
+Base	-	Castle_bricks.png	1.0	1.0		
+CastleStone	-	IceStoneButton.png	1.0	2.0		
+Base	-	Castle_bricks.png	1.0	3.0		
+Base	-	Castle_bricks.png	1.0	4.0		
+CastleStone	-	IceStoneButton.png	1.0	5.0		
+Base	-	Castle_bricks.png	1.0	6.0		
+Base	-	Castle_bricks.png	1.0	7.0		
+Base	-	Castle_bricks.png	1.0	8.0		
+CastleStone	-	IceStoneButton.png	1.0	9.0		
+Base	-	Castle_bricks.png	1.0	10.0		
+CastleStone	-	IceStoneButton.png	1.0	11.0		
+Base	-	Castle_bricks.png	1.0	12.0		
+CastleStone	-	IceStoneButton.png	1.0	13.0		
+CastleStone	-	IceStoneButton.png	2.0	-5.0		
+CastleStone	-	IceStoneButton.png	2.0	2.0		
+CastleStone	-	IceStoneButton.png	2.0	5.0		
+CastleStone	-	IceStoneButton.png	2.0	9.0		
+CastleStone	-	IceStoneButton.png	2.0	11.0		
+Base	-	Castle_bricks.png	2.0	13.0		
+CastleStone	-	IceStoneButton.png	3.0	-5.0		
+CastleStone	-	IceStoneButton.png	3.0	2.0		
+CastleStone	-	IceStoneButton.png	3.0	5.0		
+CastleStone	-	IceStoneButton.png	3.0	9.0		
+CastleStone	-	IceStoneButton.png	3.0	11.0		
+Base	-	Castle_bricks.png	3.0	13.0		
+CastleStone	-	IceStoneButton.png	4.0	-5.0		
+Base	-	Castle_bricks.png	4.0	-2.0		
+Base	-	Castle_bricks.png	4.0	-1.0		
+Base	-	Castle_bricks.png	4.0	1.0		
+Base	-	Castle_bricks.png	4.0	2.0		
+Base	-	Castle_bricks.png	4.0	3.0		
+Base	-	Castle_bricks.png	4.0	4.0		
+Base	-	Castle_bricks.png	4.0	5.0		
+Base	-	Castle_bricks.png	4.0	8.0		
+Base	-	Castle_bricks.png	4.0	9.0		
+Base	-	Castle_bricks.png	4.0	10.0		
+Base	-	Castle_bricks.png	4.0	11.0		
+Base	-	Castle_bricks.png	4.0	13.0		
+CastleStone	-	IceStoneButton.png	5.0	-5.0		
+LoadNew	From-castle-3	brickportal.png	5.0	-2.0		castle-3		
+Base	-	Castle_bricks.png	5.0	-1.0		
+CastleGate	-	Gate.png	5.0	0.0		
+Base	-	Castle_bricks.png	5.0	1.0		
+Base	-	Castle_bricks.png	5.0	2.0		
+Base	-	Castle_bricks.png	5.0	3.0		
+Base	-	Castle_bricks.png	5.0	4.0		
+CastleStone	-	IceStoneButton.png	5.0	5.0		
+CastleStone	-	IceStoneButton.png	5.0	6.0		
+CastleStone	-	IceStoneButton.png	5.0	7.0		
+CastleStone	-	IceStoneButton.png	5.0	8.0		
+Base	-	Castle_bricks.png	5.0	9.0		
+Base	-	Castle_bricks.png	5.0	10.0		
+Base	-	Castle_bricks.png	5.0	11.0		
+Base	-	Castle_bricks.png	5.0	13.0		
+LoadNew	From-castle-1;From-Start	Castle_bricks.png	5.0	14.0		castle-1		
+CastleStone	-	IceStoneButton.png	6.0	-5.0		
+Base	-	Castle_bricks.png	6.0	-2.0		
+Base	-	Castle_bricks.png	6.0	-1.0		
+Base	-	Castle_bricks.png	6.0	1.0		
+Base	-	Castle_bricks.png	6.0	2.0		
+Base	-	Castle_bricks.png	6.0	3.0		
+Base	-	Castle_bricks.png	6.0	4.0		
+Base	-	Castle_bricks.png	6.0	5.0		
+Base	-	Castle_bricks.png	6.0	8.0		
+Base	-	Castle_bricks.png	6.0	9.0		
+Base	-	Castle_bricks.png	6.0	10.0		
+Base	-	Castle_bricks.png	6.0	11.0		
+Base	-	Castle_bricks.png	6.0	13.0		
+CastleStone	-	IceStoneButton.png	7.0	-5.0		
+CastleStone	-	IceStoneButton.png	7.0	2.0		
+CastleStone	-	IceStoneButton.png	7.0	5.0		
+CastleStone	-	IceStoneButton.png	7.0	10.0		
+Base	-	Castle_bricks.png	7.0	13.0		
+CastleStone	-	IceStoneButton.png	8.0	-5.0		
+CastleStone	-	IceStoneButton.png	8.0	2.0		
+CastleStone	-	IceStoneButton.png	8.0	5.0		
+CastleStone	-	IceStoneButton.png	8.0	10.0		
+Base	-	Castle_bricks.png	8.0	13.0		
+Base	-	Castle_bricks.png	9.0	-6.0		
+CastleStone	-	IceStoneButton.png	9.0	-5.0		
+Base	-	Castle_bricks.png	9.0	-4.0		
+Base	-	Castle_bricks.png	9.0	-3.0		
+Base	-	Castle_bricks.png	9.0	-2.0		
+Base	-	Castle_bricks.png	9.0	-1.0		
+Base	-	Castle_bricks.png	9.0	0.0		
+Base	-	Castle_bricks.png	9.0	1.0		
+CastleStone	-	IceStoneButton.png	9.0	2.0		
+Base	-	Castle_bricks.png	9.0	3.0		
+Base	-	Castle_bricks.png	9.0	4.0		
+CastleStone	-	IceStoneButton.png	9.0	5.0		
+Base	-	Castle_bricks.png	9.0	6.0		
+Base	-	Castle_bricks.png	9.0	7.0		
+Base	-	Castle_bricks.png	9.0	8.0		
+Base	-	Castle_bricks.png	9.0	9.0		
+CastleStone	-	IceStoneButton.png	9.0	10.0		
+Base	-	Castle_bricks.png	9.0	11.0		
+Base	-	Castle_bricks.png	9.0	12.0		
+CastleStone	-	IceStoneButton.png	9.0	13.0		
+Base	-	Castle_bricks.png	10.0	-6.0		
+Base	-	Castle_bricks.png	10.0	-5.0		
+Base	-	Castle_bricks.png	10.0	-4.0		
+Base	-	Castle_bricks.png	10.0	-3.0		
+Base	-	Castle_bricks.png	10.0	-2.0		
+Base	-	Castle_bricks.png	10.0	-1.0		
+Base	-	Castle_bricks.png	10.0	0.0		
+Base	-	Castle_bricks.png	10.0	1.0		
+Base	-	Castle_bricks.png	10.0	2.0		
+Base	-	Castle_bricks.png	10.0	3.0		
+Base	-	Castle_bricks.png	10.0	4.0		
+Base	-	Castle_bricks.png	10.0	5.0		
+Base	-	Castle_bricks.png	10.0	6.0		
+Base	-	Castle_bricks.png	10.0	7.0		
+Base	-	Castle_bricks.png	10.0	8.0		
+Base	-	Castle_bricks.png	10.0	9.0		
+Base	-	Castle_bricks.png	10.0	10.0		
+Base	-	Castle_bricks.png	10.0	11.0		
+Base	-	Castle_bricks.png	10.0	12.0		
+Base	-	Castle_bricks.png	10.0	13.0		
+
+
+Character	-	down-character.png	4.0	8.0		Ever heard of the Seven Bridges of Koningsberg? We have nine.	           Strange Man		
+

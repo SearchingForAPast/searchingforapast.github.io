@@ -1,0 +1,136 @@
+0
+11
+-2
+11
+overworld.mp3
+Decoration	-	pillar.png	2.0	1.0		true		
+Decoration	-	pillar.png	8.0	1.0		true		
+Decoration	-	down.png	5.0	10.0		false		
+Decoration	-	pillar.png	7.0	9.0		true		
+Decoration	-	pillar.png	3.0	9.0		true		
+Decoration	-	Dragon.png	6.0	3.0		true		
+
+Base	-	brick.png	0.0	0.0		
+Base	-	brick.png	0.0	1.0		
+Base	-	brick.png	0.0	2.0		
+Base	-	brick.png	0.0	3.0		
+Base	-	brick.png	0.0	4.0		
+Base	-	brick.png	0.0	5.0		
+Base	-	brick.png	0.0	6.0		
+Base	-	brick.png	0.0	7.0		
+Base	-	brick.png	0.0	8.0		
+Base	-	brick.png	0.0	9.0		
+Base	-	brick.png	1.0	0.0		
+Base	-	brick.png	1.0	1.0		
+Base	-	brick.png	1.0	2.0		
+Base	-	brick.png	1.0	3.0		
+Base	-	brick.png	1.0	4.0		
+Base	-	brick.png	1.0	5.0		
+Base	-	brick.png	1.0	6.0		
+Base	-	brick.png	1.0	7.0		
+Base	-	brick.png	1.0	8.0		
+Base	-	brick.png	1.0	9.0		
+Base	-	brick.png	2.0	0.0		
+Wall	-	brick.png	2.0	1.0		
+Base	-	brick.png	2.0	2.0		
+Base	-	brick.png	2.0	3.0		
+Base	-	brick.png	2.0	4.0		
+Base	-	brick.png	2.0	5.0		
+Base	-	brick.png	2.0	6.0		
+Base	-	brick.png	2.0	7.0		
+Base	-	brick.png	2.0	8.0		
+Base	-	brick.png	2.0	9.0		
+Base	-	redcarpet-left.png	3.0	0.0		
+Base	-	redcarpet-left.png	3.0	1.0		
+Base	-	redcarpet-left.png	3.0	2.0		
+Base	-	redcarpet-left.png	3.0	3.0		
+Base	-	redcarpet-left.png	3.0	4.0		
+Base	-	redcarpet-left.png	3.0	5.0		
+Base	-	redcarpet-left.png	3.0	6.0		
+Base	-	redcarpet-left.png	3.0	7.0		
+Base	-	redcarpet-left.png	3.0	8.0		
+Wall	-	redcarpet-left.png	3.0	9.0		
+Base	-	redcarpet.png	4.0	0.0		
+Base	-	redcarpet.png	4.0	1.0		
+Base	-	redcarpet.png	4.0	2.0		
+Base	-	redcarpet.png	4.0	3.0		
+Base	-	redcarpet.png	4.0	4.0		
+Base	-	redcarpet.png	4.0	5.0		
+Base	-	redcarpet.png	4.0	6.0		
+Base	-	redcarpet.png	4.0	7.0		
+Base	-	redcarpet.png	4.0	8.0		
+Base	-	redcarpet.png	4.0	9.0		
+Base	-	redcarpet.png	5.0	0.0		
+Base	-	redcarpet.png	5.0	1.0		
+Base	-	redcarpet.png	5.0	2.0		
+Base	-	redcarpet.png	5.0	3.0		
+Base	-	redcarpet.png	5.0	4.0		
+Base	-	redcarpet.png	5.0	5.0		
+Base	-	redcarpet.png	5.0	6.0		
+Base	-	redcarpet.png	5.0	7.0		
+Base	-	redcarpet.png	5.0	8.0		
+Base	-	redcarpet.png	5.0	9.0		
+LoadNew	From-overworld;From-Start	redcarpet.png	5.0	10.0		overworld		
+Base	-	redcarpet.png	6.0	0.0		
+Base	-	redcarpet.png	6.0	1.0		
+Base	-	redcarpet.png	6.0	2.0		
+Base	-	redcarpet.png	6.0	3.0		
+Base	-	redcarpet.png	6.0	4.0		
+Base	-	redcarpet.png	6.0	5.0		
+Base	-	redcarpet.png	6.0	6.0		
+Base	-	redcarpet.png	6.0	7.0		
+Base	-	redcarpet.png	6.0	8.0		
+Base	-	redcarpet.png	6.0	9.0		
+Base	-	redcarpet-right.png	7.0	0.0		
+Base	-	redcarpet-right.png	7.0	1.0		
+Base	-	redcarpet-right.png	7.0	2.0		
+Base	-	redcarpet-right.png	7.0	3.0		
+Base	-	redcarpet-right.png	7.0	4.0		
+Base	-	redcarpet-right.png	7.0	5.0		
+Base	-	redcarpet-right.png	7.0	6.0		
+Base	-	redcarpet-right.png	7.0	7.0		
+Base	-	redcarpet-right.png	7.0	8.0		
+Wall	-	redcarpet-right.png	7.0	9.0		
+Base	-	brick.png	8.0	0.0		
+Wall	-	brick.png	8.0	1.0		
+Base	-	brick.png	8.0	2.0		
+Base	-	brick.png	8.0	3.0		
+Base	-	brick.png	8.0	4.0		
+Base	-	brick.png	8.0	5.0		
+Base	-	brick.png	8.0	6.0		
+Base	-	brick.png	8.0	7.0		
+Base	-	brick.png	8.0	8.0		
+Base	-	brick.png	8.0	9.0		
+Base	-	brick.png	9.0	0.0		
+Base	-	brick.png	9.0	1.0		
+Base	-	brick.png	9.0	2.0		
+Base	-	brick.png	9.0	3.0		
+Base	-	brick.png	9.0	4.0		
+Base	-	brick.png	9.0	5.0		
+Base	-	brick.png	9.0	6.0		
+Base	-	brick.png	9.0	7.0		
+Base	-	brick.png	9.0	8.0		
+Base	-	brick.png	9.0	9.0		
+Base	-	brick.png	10.0	0.0		
+Base	-	brick.png	10.0	1.0		
+Base	-	brick.png	10.0	2.0		
+Base	-	brick.png	10.0	3.0		
+Base	-	brick.png	10.0	4.0		
+Base	-	brick.png	10.0	5.0		
+Base	-	brick.png	10.0	6.0		
+Base	-	brick.png	10.0	7.0		
+Base	-	brick.png	10.0	8.0		
+Base	-	brick.png	10.0	9.0		
+
+
+Character	-	down-dragon.png	7.0	3.0		There you are, friend!;I'd started to think you'd forgotten we'd arranged to meet here;The fireworks display you'd made earlier with the help of the wizards was amazing!;You're my best friend, you know that?	 Dragon		
+Character	-	down-dragon.png	7.0	4.0		There you are, friend!;I'd started to think you'd forgotten we'd arranged to meet here;The fireworks display you'd made earlier with the help of the wizards was amazing!;You're my best friend, you know that?	 Dragon		
+Character	-	down-dragon.png	8.0	2.0		There you are, friend!;I'd started to think you'd forgotten we'd arranged to meet here;The fireworks display you'd made earlier with the help of the wizards was amazing!;You're my best friend, you know that?	 Dragon		
+Character	-	down-dragon.png	8.0	3.0		There you are, friend!;I'd started to think you'd forgotten we'd arranged to meet here;The fireworks display you'd made earlier with the help of the wizards was amazing!;You're my best friend, you know that?	 Dragon		
+Character	-	down-dragon.png	9.0	1.0		There you are, friend!;I'd started to think you'd forgotten we'd arranged to meet here;The fireworks display you'd made earlier with the help of the wizards was amazing!;You're my best friend, you know that?	 Dragon		
+Character	-	down-dragon.png	9.0	2.0		There you are, friend!;I'd started to think you'd forgotten we'd arranged to meet here;The fireworks display you'd made earlier with the help of the wizards was amazing!;You're my best friend, you know that?	 Dragon		
+Character	-	down-dragon.png	9.0	3.0		There you are, friend!;I'd started to think you'd forgotten we'd arranged to meet here;The fireworks display you'd made earlier with the help of the wizards was amazing!;You're my best friend, you know that?	 Dragon		
+Character	-	down-dragon.png	10.0	1.0		There you are, friend!;I'd started to think you'd forgotten we'd arranged to meet here;The fireworks display you'd made earlier with the help of the wizards was amazing!;You're my best friend, you know that?	 Dragon		
+Character	-	down-dragon.png	10.0	2.0		There you are, friend!;I'd started to think you'd forgotten we'd arranged to meet here;The fireworks display you'd made earlier with the help of the wizards was amazing!;You're my best friend, you know that?	 Dragon		
+Character	-	down-dragon.png	10.0	3.0		There you are, friend!;I'd started to think you'd forgotten we'd arranged to meet here;The fireworks display you'd made earlier with the help of the wizards was amazing!;You're my best friend, you know that?	 Dragon		
+

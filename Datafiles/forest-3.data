@@ -1,0 +1,146 @@
+0
+11
+-2
+11
+Forest.mp3
+Decoration	-	forest_stairs_up.png	5.0	10.0		false		
+Decoration	-	forest_stairs_down.png	5.0	2.0		false		
+Decoration	-	down.png	5.0	2.0		true		
+
+Base	-	grass.png	0.0	0.0		
+Base	-	grass.png	0.0	1.0		
+Base	-	grass.png	0.0	2.0		
+Base	-	grass.png	0.0	3.0		
+Base	-	grass.png	0.0	4.0		
+Base	-	grass.png	0.0	5.0		
+Base	-	grass.png	0.0	6.0		
+Base	-	grass.png	0.0	7.0		
+Base	-	grass.png	0.0	8.0		
+Base	-	grass.png	0.0	9.0		
+Base	-	grass.png	1.0	0.0		
+Base	-	grass.png	1.0	1.0		
+Base	-	grass.png	1.0	2.0		
+Base	-	grass.png	1.0	3.0		
+Base	-	grass.png	1.0	4.0		
+Base	-	grass.png	1.0	5.0		
+Base	-	grass.png	1.0	6.0		
+Base	-	grass.png	1.0	7.0		
+Base	-	grass.png	1.0	8.0		
+Base	-	grass.png	1.0	9.0		
+Base	-	grass.png	2.0	0.0		
+Base	-	grass.png	2.0	1.0		
+Base	-	grass.png	2.0	2.0		
+Base	-	grass.png	2.0	3.0		
+Base	-	grass.png	2.0	4.0		
+Base	-	grass.png	2.0	5.0		
+Base	-	grass.png	2.0	6.0		
+Base	-	grass.png	2.0	7.0		
+Base	-	grass.png	2.0	8.0		
+Base	-	grass.png	2.0	9.0		
+Base	-	grass.png	3.0	0.0		
+Base	-	grass.png	3.0	1.0		
+Base	-	grass.png	3.0	2.0		
+Base	-	grass.png	3.0	3.0		
+Base	-	grass.png	3.0	4.0		
+Base	-	grass.png	3.0	5.0		
+Base	-	grass.png	3.0	6.0		
+Base	-	grass.png	3.0	7.0		
+Base	-	grass.png	3.0	8.0		
+Base	-	grass.png	3.0	9.0		
+Base	-	grass.png	4.0	0.0		
+Base	-	grass.png	4.0	1.0		
+Base	-	grass.png	4.0	2.0		
+Base	-	grass.png	4.0	3.0		
+Base	-	grass.png	4.0	4.0		
+Base	-	grass.png	4.0	5.0		
+Base	-	grass.png	4.0	6.0		
+Base	-	grass.png	4.0	7.0		
+Base	-	grass.png	4.0	8.0		
+Base	-	grass.png	4.0	9.0		
+Base	-	grass.png	5.0	0.0		
+Base	-	grass.png	5.0	1.0		
+LoadNew	from-forest-4	grass.png	5.0	2.0		forest-4		
+Base	-	grass.png	5.0	3.0		
+Base	-	grass.png	5.0	4.0		
+Base	-	grass.png	5.0	5.0		
+Base	-	grass.png	5.0	6.0		
+Base	-	grass.png	5.0	7.0		
+Base	-	grass.png	5.0	8.0		
+Base	from-start	grass.png	5.0	9.0		
+LoadNew	from-Start;from-forest-2	grass.png	5.0	10.0		forest-2		
+Base	-	grass.png	6.0	0.0		
+Base	-	grass.png	6.0	1.0		
+Base	-	grass.png	6.0	2.0		
+Base	-	grass.png	6.0	3.0		
+Base	-	grass.png	6.0	4.0		
+Base	-	grass.png	6.0	5.0		
+Base	-	grass.png	6.0	6.0		
+Base	-	grass.png	6.0	7.0		
+Base	-	grass.png	6.0	8.0		
+Base	-	grass.png	6.0	9.0		
+Base	-	grass.png	7.0	0.0		
+Base	-	grass.png	7.0	1.0		
+Base	-	grass.png	7.0	2.0		
+Base	-	grass.png	7.0	3.0		
+Base	-	grass.png	7.0	4.0		
+Base	-	grass.png	7.0	5.0		
+Base	-	grass.png	7.0	6.0		
+Base	-	grass.png	7.0	7.0		
+Base	-	grass.png	7.0	8.0		
+Base	-	grass.png	7.0	9.0		
+Base	-	grass.png	8.0	0.0		
+Base	-	grass.png	8.0	1.0		
+Base	-	grass.png	8.0	2.0		
+Base	-	grass.png	8.0	3.0		
+Base	-	grass.png	8.0	4.0		
+Base	-	grass.png	8.0	5.0		
+Base	-	grass.png	8.0	6.0		
+Base	-	grass.png	8.0	7.0		
+Base	-	grass.png	8.0	8.0		
+Base	-	grass.png	8.0	9.0		
+Base	-	grass.png	9.0	0.0		
+Base	-	grass.png	9.0	1.0		
+Base	-	grass.png	9.0	2.0		
+Base	-	grass.png	9.0	3.0		
+Base	-	grass.png	9.0	4.0		
+Base	-	grass.png	9.0	5.0		
+Base	-	grass.png	9.0	6.0		
+Base	-	grass.png	9.0	7.0		
+Base	-	grass.png	9.0	8.0		
+Base	-	grass.png	9.0	9.0		
+Base	-	grass.png	10.0	0.0		
+Base	-	grass.png	10.0	1.0		
+Base	-	grass.png	10.0	2.0		
+Base	-	grass.png	10.0	3.0		
+Base	-	grass.png	10.0	4.0		
+Base	-	grass.png	10.0	5.0		
+Base	-	grass.png	10.0	6.0		
+Base	-	grass.png	10.0	7.0		
+Base	-	grass.png	10.0	8.0		
+Base	-	grass.png	10.0	9.0		
+
+
+Log-Left	-	logleft.png	0.0	1.0		
+Log-Left	-	logleft.png	0.0	5.0		
+Log-Horizontal	-	logh.png	1.0	1.0		
+Log-Horizontal	-	logh.png	1.0	5.0		
+Log-Horizontal	-	logh.png	2.0	1.0		
+Log-Top	-	logtop.png	2.0	2.0		
+Log-Bottom	-	logbottom.png	2.0	3.0		
+Log-Right	-	logright.png	2.0	5.0		
+Log-Top	-	logtop.png	2.0	8.0		
+Log-Bottom	-	logbottom.png	2.0	9.0		
+Log-Right	-	logright.png	3.0	1.0		
+Log-Top	-	logtop.png	3.0	6.0		
+Log-Bottom	-	logbottom.png	3.0	7.0		
+Log-Left	-	logleft.png	3.0	8.0		
+Log-Left	-	logleft.png	4.0	5.0		
+Log-Horizontal	-	logh.png	4.0	8.0		
+Log-Stump	-	stump.png	5.0	2.0		
+Log-Right	-	logright.png	5.0	5.0		
+Log-Horizontal	-	logh.png	5.0	8.0		
+Log-Horizontal	-	logh.png	6.0	8.0		
+Log-Lighter	-	loglighter.png	6.0	9.0		
+Log-Right	-	logright.png	7.0	8.0		
+Character	-	left-Explorer.png	10.0	9.0		See that stump over there?;The exit is under it.;If you can burn that stump, you can get out.	 Explorer		
+

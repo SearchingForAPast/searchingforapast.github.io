@@ -1,0 +1,89 @@
+-8
+8
+-8
+7
+Winter_Dungeon_Bells.mp3
+Decoration	-	down.png	0.0	6.0		false		
+Decoration	-	icicle.png	-3.0	5.0		true		
+Decoration	-	icicle.png	-3.0	4.0		true		
+Decoration	-	icicle.png	-3.0	3.0		true		
+
+LoadNew	From-ice-1	stairs_down_ice.png	-5.0	-2.0		ice-1		
+Ice	-	ice.png	-5.0	-1.0		
+Ice	-	ice.png	-5.0	0.0		
+Ice	-	ice.png	-5.0	1.0		
+Ice	-	ice.png	-5.0	2.0		
+Ice	-	ice.png	-5.0	3.0		
+Ice	-	ice.png	-5.0	4.0		
+LoadNew	From-ice-exit	stairs_down_ice.png	-5.0	5.0		ice-exit		
+Ice	-	ice.png	-4.0	-2.0		
+Ice	-	ice.png	-4.0	-1.0		
+Ice	-	ice.png	-4.0	0.0		
+Ice	-	ice.png	-4.0	1.0		
+Ice	-	ice.png	-4.0	2.0		
+Ice	-	ice.png	-4.0	3.0		
+Ice	-	ice.png	-4.0	4.0		
+Ice	-	ice.png	-4.0	5.0		
+Ice	-	ice.png	-3.0	-2.0		
+Ice	-	ice.png	-3.0	-1.0		
+Ice	-	ice.png	-3.0	0.0		
+Ice	-	ice.png	-3.0	1.0		
+Ice	-	ice.png	-3.0	2.0		
+Wall	-	ice.png	-3.0	3.0		
+Wall	-	ice.png	-3.0	4.0		
+Wall	-	ice.png	-3.0	5.0		
+Ice	-	ice.png	-2.0	-2.0		
+Ice	-	ice.png	-2.0	-1.0		
+Ice	-	ice.png	-2.0	0.0		
+Ice	-	ice.png	-2.0	1.0		
+Ice	-	ice.png	-2.0	2.0		
+Ice	-	ice.png	-2.0	3.0		
+Ice	-	ice.png	-2.0	4.0		
+Ice	-	ice.png	-2.0	5.0		
+Ice	-	ice.png	-1.0	-2.0		
+Ice	-	ice.png	-1.0	-1.0		
+Ice	-	ice.png	-1.0	0.0		
+Ice	-	ice.png	-1.0	1.0		
+Ice	-	ice.png	-1.0	2.0		
+Ice	-	ice.png	-1.0	3.0		
+Ice	-	ice.png	-1.0	4.0		
+Ice	-	ice.png	-1.0	5.0		
+Ice	-	ice.png	0.0	-2.0		
+Ice	-	ice.png	0.0	-1.0		
+Ice	-	ice.png	0.0	0.0		
+Ice	-	ice.png	0.0	1.0		
+Ice	-	ice.png	0.0	2.0		
+Ice	-	ice.png	0.0	3.0		
+Ice	-	ice.png	0.0	4.0		
+Base	-	IceStone3.png	0.0	5.0		
+LoadNew	From-Start;From-overworld	IceStone.png	0.0	6.0		overworld		
+Ice	-	ice.png	1.0	-2.0		
+Ice	-	ice.png	1.0	-1.0		
+Ice	-	ice.png	1.0	0.0		
+Ice	-	ice.png	1.0	1.0		
+Ice	-	ice.png	1.0	2.0		
+Ice	-	ice.png	1.0	3.0		
+Ice	-	ice.png	1.0	4.0		
+Ice	-	ice.png	1.0	5.0		
+Ice	-	ice.png	2.0	-2.0		
+Ice	-	ice.png	2.0	-1.0		
+Ice	-	ice.png	2.0	0.0		
+Ice	-	ice.png	2.0	1.0		
+Ice	-	ice.png	2.0	2.0		
+Ice	-	ice.png	2.0	3.0		
+Ice	-	ice.png	2.0	4.0		
+Ice	-	ice.png	2.0	5.0		
+Ice	-	ice.png	3.0	-2.0		
+Ice	-	ice.png	3.0	-1.0		
+Ice	-	ice.png	3.0	0.0		
+Ice	-	ice.png	3.0	1.0		
+Ice	-	ice.png	3.0	2.0		
+Ice	-	ice.png	3.0	3.0		
+Ice	-	ice.png	3.0	4.0		
+Ice	-	ice.png	3.0	5.0		
+
+
+Boulder	-	boulder-ice.png	0.0	0.0		
+Boulder	-	boulder-ice.png	0.0	2.0		
+IcicleNPC	-	left-icicle.png	3.0	5.0		Ow!;Alright, you know that we exist, we know.;Sliding into us is just rude.	 Icicle Person		
+

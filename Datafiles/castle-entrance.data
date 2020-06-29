@@ -1,0 +1,59 @@
+-5
+4
+-12
+1
+Castle.mp3
+Decoration	-	stairs_down_castle.png	0.0	-12.0		false		
+Decoration	-	down.png	0.0	0.0		false		
+Decoration	-	stairs_down_castle.png	3.0	-2.0		false		
+
+Base	-	Castle_bricks.png	-5.0	-3.0		
+Base	-	Castle_bricks.png	-5.0	-2.0		
+Base	-	Castle_bricks.png	-5.0	-1.0		
+Base	-	Castle_bricks.png	-4.0	-3.0		
+Base	-	Castle_bricks.png	-4.0	-2.0		
+Base	-	Castle_bricks.png	-4.0	-1.0		
+Base	-	Castle_bricks.png	-3.0	-3.0		
+Base	-	Castle_bricks.png	-3.0	-2.0		
+Base	-	Castle_bricks.png	-3.0	-1.0		
+Base	-	Castle_bricks.png	-2.0	-3.0		
+Base	-	Castle_bricks.png	-2.0	-2.0		
+Base	-	Castle_bricks.png	-2.0	-1.0		
+Base	-	Castle_bricks.png	-1.0	-12.0		
+Base	-	Castle_bricks.png	-1.0	-11.0		
+Base	-	Castle_bricks.png	-1.0	-9.0		
+CastleStone	-	IceStoneButton.png	-1.0	-8.0		
+CastleStone	-	IceStoneButton.png	-1.0	-7.0		
+CastleStone	-	IceStoneButton.png	-1.0	-5.0		
+CastleStone	-	IceStoneButton.png	-1.0	-4.0		
+Base	-	Castle_bricks.png	-1.0	-3.0		
+Base	-	Castle_bricks.png	-1.0	-2.0		
+Base	-	Castle_bricks.png	-1.0	-1.0		
+LoadNew	from-castle-1	Castle_bricks.png	0.0	-12.0		castle-1		
+Base	-	Castle_bricks.png	0.0	-11.0		
+CastleGate	-	Gate.png	0.0	-10.0		
+Base	-	Castle_bricks.png	0.0	-9.0		
+CastleStone	-	IceStoneButton.png	0.0	-7.0		
+CastleStone	-	IceStoneButton.png	0.0	-5.0		
+Base	-	Castle_bricks.png	0.0	-3.0		
+Base	-	Castle_bricks.png	0.0	-2.0		
+Base	-	Castle_bricks.png	0.0	-1.0		
+LoadNew	from-overworld;from-start	Castle_bricks.png	0.0	0.0		overworld		
+Base	-	Castle_bricks.png	1.0	-12.0		
+Base	-	Castle_bricks.png	1.0	-11.0		
+Base	-	Castle_bricks.png	1.0	-9.0		
+CastleStone	-	IceStoneButton.png	1.0	-7.0		
+CastleStone	-	IceStoneButton.png	1.0	-6.0		
+CastleStone	-	IceStoneButton.png	1.0	-5.0		
+Base	-	Castle_bricks.png	1.0	-3.0		
+Base	-	Castle_bricks.png	1.0	-2.0		
+Base	-	Castle_bricks.png	1.0	-1.0		
+Base	-	Castle_bricks.png	2.0	-3.0		
+Base	-	Castle_bricks.png	2.0	-2.0		
+Base	-	Castle_bricks.png	2.0	-1.0		
+LoadNew	from-castle-exit	Castle_bricks.png	3.0	-2.0		castle-exit		
+
+
+Character	-	down-character.png	-5.0	-3.0		Oh! hey, you should keep back, the castle gentry recently had these new (and verrry expensive) glass ceilings repaired, wouldn't want you walking arond, then CRASH! 100-foot fall.;We weren't even here until a cloak bloke came rushing through the last set of tiles, now we're on guard, and we put up these gates to keep people off portions of the roof.;Hey, on second though, you look a lot like the description of that guy...	    Fine Arts Protection Soldier		
+Character	-	down-character.png	-3.0	-3.0		Halt! You cannot pass, as we, the Fine Arts Protection Squadron, have sworn on our honor to defend the newly installed stained glass ceilings of Castle Lorem Ipsum.;Look at you, if the likes of you were to somehow get past me and my men, let alone break the recently-blown glass panes, I might as well hang up my armour in shame and let you pass.;Wait! Don't get any funny ideas, I saw that look!	    Fine Arts Protection Soldier		
+

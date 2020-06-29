@@ -1,0 +1,107 @@
+-8
+8
+-8
+7
+Winter_Dungeon_Bells.mp3
+Decoration	-	stairs_up_ice.png	0.0	6.0		false		
+
+LoadNew	From-ice-5	stairs_down_ice.png	-6.0	-3.0		ice-5		
+Base	-	IceStone.png	-6.0	-2.0		
+Base	-	IceStone.png	-6.0	-1.0		
+Base	-	IceStone.png	-6.0	0.0		
+Base	-	IceStone.png	-5.0	-3.0		
+Base	-	IceStone.png	-5.0	-2.0		
+Base	-	IceStone.png	-5.0	0.0		
+Base	-	IceStone.png	-4.0	-1.0		
+Ice	-	ice.png	-4.0	0.0		
+Base	-	IceStone.png	-4.0	1.0		
+Ice	-	ice.png	-4.0	2.0		
+Base	-	IceStone.png	-4.0	3.0		
+Ice	-	ice.png	-4.0	4.0		
+Base	-	IceStone.png	-4.0	5.0		
+Ice	-	ice.png	-3.0	-1.0		
+Base	-	IceStone.png	-3.0	0.0		
+Ice	-	ice.png	-3.0	1.0		
+Base	-	IceStone.png	-3.0	2.0		
+Ice	-	ice.png	-3.0	3.0		
+Base	-	IceStone.png	-3.0	4.0		
+Ice	-	ice.png	-3.0	5.0		
+Base	-	IceStone.png	-2.0	-1.0		
+Ice	-	ice.png	-2.0	0.0		
+Base	-	IceStone.png	-2.0	1.0		
+Ice	-	ice.png	-2.0	2.0		
+Base	-	IceStone.png	-2.0	3.0		
+Ice	-	ice.png	-2.0	4.0		
+Base	-	IceStone.png	-2.0	5.0		
+Ice	-	ice.png	-1.0	-1.0		
+Base	-	IceStone.png	-1.0	0.0		
+Ice	-	ice.png	-1.0	1.0		
+Base	-	IceStone.png	-1.0	2.0		
+Ice	-	ice.png	-1.0	3.0		
+Base	-	IceStone.png	-1.0	4.0		
+Ice	-	ice.png	-1.0	5.0		
+Base	-	IceStone.png	0.0	-1.0		
+Ice	-	ice.png	0.0	0.0		
+Base	-	IceStone.png	0.0	1.0		
+Ice	-	ice.png	0.0	2.0		
+Base	-	IceStone.png	0.0	3.0		
+Ice	-	ice.png	0.0	4.0		
+Base	-	IceStone3.png	0.0	5.0		
+LoadNew	From-Start;From-ice-3	IceStone.png	0.0	6.0		ice-3		
+Ice	-	ice.png	1.0	-1.0		
+Base	-	IceStone.png	1.0	0.0		
+Ice	-	ice.png	1.0	1.0		
+Base	-	IceStone.png	1.0	2.0		
+Ice	-	ice.png	1.0	3.0		
+Base	-	IceStone.png	1.0	4.0		
+Ice	-	ice.png	1.0	5.0		
+Base	-	IceStone.png	2.0	-1.0		
+Ice	-	ice.png	2.0	0.0		
+Base	-	IceStone.png	2.0	1.0		
+Ice	-	ice.png	2.0	2.0		
+Base	-	IceStone.png	2.0	3.0		
+Ice	-	ice.png	2.0	4.0		
+Base	-	IceStone.png	2.0	5.0		
+Ice	-	ice.png	3.0	-1.0		
+Base	-	IceStone.png	3.0	0.0		
+Ice	-	ice.png	3.0	1.0		
+Base	-	IceStone.png	3.0	2.0		
+Ice	-	ice.png	3.0	3.0		
+Base	-	IceStone.png	3.0	4.0		
+Ice	-	ice.png	3.0	5.0		
+
+
+Boulder	-	boulder-ice.png	-4.0	-1.0		
+Boulder	-	boulder-ice.png	-4.0	2.0		
+Boulder	-	boulder-ice.png	-4.0	3.0		
+Boulder	-	boulder-ice.png	-4.0	4.0		
+Boulder	-	boulder-ice.png	-4.0	5.0		
+Boulder	-	boulder-ice.png	-3.0	0.0		
+Boulder	-	boulder-ice.png	-3.0	2.0		
+Boulder	-	boulder-ice.png	-3.0	3.0		
+Boulder	-	boulder-ice.png	-3.0	4.0		
+Boulder	-	boulder-ice.png	-3.0	5.0		
+Boulder	-	boulder-ice.png	-2.0	-1.0		
+Boulder	-	boulder-ice.png	-2.0	1.0		
+Boulder	-	boulder-ice.png	-2.0	3.0		
+Boulder	-	boulder-ice.png	-2.0	5.0		
+Boulder	-	boulder-ice.png	-1.0	-1.0		
+Boulder	-	boulder-ice.png	-1.0	0.0		
+Boulder	-	boulder-ice.png	-1.0	1.0		
+Boulder	-	boulder-ice.png	-1.0	2.0		
+Boulder	-	boulder-ice.png	-1.0	4.0		
+Boulder	-	boulder-ice.png	0.0	-1.0		
+Boulder	-	boulder-ice.png	0.0	1.0		
+Boulder	-	boulder-ice.png	0.0	3.0		
+Boulder	-	boulder-ice.png	1.0	0.0		
+Boulder	-	boulder-ice.png	1.0	2.0		
+Boulder	-	boulder-ice.png	1.0	4.0		
+Boulder	-	boulder-ice.png	2.0	-1.0		
+Boulder	-	boulder-ice.png	2.0	1.0		
+Boulder	-	boulder-ice.png	2.0	3.0		
+Boulder	-	boulder-ice.png	2.0	5.0		
+Boulder	-	boulder-ice.png	3.0	0.0		
+Boulder	-	boulder-ice.png	3.0	2.0		
+IcicleNPC	-	left-icicle.png	3.0	3.0		Nope, I'm still not a person.;Just a normal icicle.;Why am I talking?;Uhhh... Just a normal talking icicle.	 Icicle Person		
+Boulder	-	boulder-ice.png	3.0	4.0		
+

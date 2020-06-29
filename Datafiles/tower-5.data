@@ -1,0 +1,138 @@
+0
+11
+-2
+11
+Tower.mp3
+Decoration	-	stairs_down_tower.png	5.0	10.0		false		
+Decoration	-	stairs_up_tower.png	0.0	9.0		false		
+
+TeleportPad	A_A	teleportpad.png	0.0	-1.0		
+Base	-	brick.png	0.0	0.0		
+Base	-	brick.png	0.0	1.0		
+Base	-	brick.png	0.0	2.0		
+TeleportPad	C_A	teleportpad.png	0.0	3.0		
+Wall	-	Bookcase.png	0.0	4.0		
+TeleportPad	B_B	teleportpad.png	0.0	5.0		
+Base	-	brick.png	0.0	6.0		
+Wall	-	Bookcase.png	0.0	7.0		
+Base	-	brick.png	0.0	8.0		
+LoadNew	From-tower-6	brick.png	0.0	9.0		tower-6		
+Base	-	brick.png	1.0	-1.0		
+Base	-	brick.png	1.0	0.0		
+TeleportPad	B_A	teleportpad.png	1.0	1.0		
+Base	-	brick.png	1.0	2.0		
+Base	-	brick.png	1.0	3.0		
+Wall	-	Bookcase.png	1.0	4.0		
+Base	-	brick.png	1.0	5.0		
+Base	-	brick.png	1.0	6.0		
+Wall	-	Bookcase.png	1.0	7.0		
+Base	-	brick.png	1.0	8.0		
+Base	-	brick.png	1.0	9.0		
+TeleportPad	W_B	teleportpad.png	2.0	-1.0		
+Base	-	brick.png	2.0	0.0		
+Base	-	brick.png	2.0	1.0		
+Base	-	brick.png	2.0	2.0		
+TeleportPad	D_A	teleportpad.png	2.0	3.0		
+Wall	-	Bookcase.png	2.0	4.0		
+TeleportPad	E_A	teleportpad.png	2.0	5.0		
+Base	-	brick.png	2.0	6.0		
+Wall	-	Bookcase.png	2.0	7.0		
+TeleportPad	F_A	teleportpad.png	2.0	8.0		
+TeleportPad	G_a	teleportpad.png	2.0	9.0		
+Wall	-	Cauldron.png	3.0	-1.0		
+Wall	-	Table.png	3.0	0.0		
+Wall	-	Bookcase.png	3.0	1.0		
+Wall	-	Cauldron.png	3.0	2.0		
+Wall	-	Table.png	3.0	3.0		
+Wall	-	Bookcase.png	3.0	4.0		
+Wall	-	Cauldron.png	3.0	5.0		
+Wall	-	Table.png	3.0	6.0		
+Wall	-	Bookcase.png	3.0	7.0		
+Wall	-	Cauldron.png	3.0	8.0		
+Wall	-	Table.png	3.0	9.0		
+TeleportPad	F_B	teleportpad.png	4.0	-1.0		
+MovePad	Z	movepaddown.png	4.0	0.0		0	1		
+Base	-	brick.png	4.0	1.0		
+Base	-	brick.png	4.0	2.0		
+Base	-	brick.png	4.0	3.0		
+Base	-	brick.png	4.0	4.0		
+TeleportPad	C_B	teleportpad.png	4.0	5.0		
+Wall	-	Bookcase.png	4.0	6.0		
+Base	-	brick.png	4.0	7.0		
+Base	-	brick.png	4.0	8.0		
+TeleportPad	G_B	teleportpad.png	4.0	9.0		
+MovePad	-	movepadright.png	5.0	-1.0		1	0		
+Base	-	brick.png	5.0	0.0		
+Base	-	brick.png	5.0	1.0		
+Base	-	brick.png	5.0	2.0		
+TeleportPad	I_A	teleportpad.png	5.0	3.0		
+Base	-	brick.png	5.0	4.0		
+MovePad	Y	movepadright.png	5.0	5.0		3	0		
+Wall	-	Bookcase.png	5.0	6.0		
+TeleportPad	H_A	teleportpad.png	5.0	7.0		
+Base	-	brick.png	5.0	8.0		
+Base	From-overworld	brick.png	5.0	9.0		
+LoadNew	From-tower-4;From-Start	brick.png	5.0	10.0		tower-4		
+Base	-	brick.png	6.0	-1.0		
+Base	-	brick.png	6.0	0.0		
+Base	-	brick.png	6.0	1.0		
+Base	-	brick.png	6.0	2.0		
+Base	-	brick.png	6.0	3.0		
+Base	-	brick.png	6.0	4.0		
+TeleportPad	H_B	teleportpad.png	6.0	5.0		
+Wall	-	Bookcase.png	6.0	6.0		
+TeleportPad	X_A	teleportpad.png	6.0	7.0		
+Base	-	brick.png	6.0	8.0		
+Base	-	brick.png	6.0	9.0		
+Wall	-	Cauldron.png	7.0	-1.0		
+Base	-	brick.png	7.0	0.0		
+Wall	-	Cauldron.png	7.0	1.0		
+Wall	-	Bookcase.png	7.0	2.0		
+Wall	-	Table.png	7.0	3.0		
+Wall	-	Cauldron.png	7.0	4.0		
+Wall	-	Table.png	7.0	5.0		
+Wall	-	Bookcase.png	7.0	6.0		
+Wall	-	Table.png	7.0	7.0		
+Wall	-	Cauldron.png	7.0	8.0		
+Wall	-	Table.png	7.0	9.0		
+Base	-	brick.png	8.0	-1.0		
+TeleportPad	J_a	teleportpad.png	8.0	0.0		
+Base	-	brick.png	8.0	1.0		
+Wall	-	Bookcase.png	8.0	2.0		
+TeleportPad	J_B	teleportpad.png	8.0	3.0		
+Base	-	brick.png	8.0	4.0		
+Base	-	brick.png	8.0	5.0		
+Wall	-	Bookcase.png	8.0	6.0		
+TeleportPad	D_B	teleportpad.png	8.0	7.0		
+Base	-	brick.png	8.0	8.0		
+Base	-	brick.png	8.0	9.0		
+MovePad	-	movepaddown.png	9.0	-1.0		0	1		
+Base	-	brick.png	9.0	0.0		
+Base	-	brick.png	9.0	1.0		
+Wall	-	Bookcase.png	9.0	2.0		
+Base	-	brick.png	9.0	3.0		
+Base	-	brick.png	9.0	4.0		
+TeleportPad	K_A	teleportpad.png	9.0	5.0		
+Wall	-	Bookcase.png	9.0	6.0		
+Base	-	brick.png	9.0	7.0		
+TeleportPad	W_A	teleportpad.png	9.0	8.0		
+TeleportPad	X_B	teleportpad.png	9.0	9.0		
+TeleportPad	A_B	teleportpad.png	10.0	-1.0		
+MovePad	-	movepadleft.png	10.0	0.0		-1	0		
+TeleportPad	I_B	teleportpad.png	10.0	1.0		
+Wall	-	Bookcase.png	10.0	2.0		
+TeleportPad	E_B	teleportpad.png	10.0	3.0		
+Base	-	brick.png	10.0	4.0		
+Base	-	brick.png	10.0	5.0		
+Wall	-	Bookcase.png	10.0	6.0		
+TeleportPad	K_B	teleportpad.png	10.0	7.0		
+Base	-	brick.png	10.0	8.0		
+MovePad	-	movepadleft.png	10.0	9.0		-3	0		
+
+
+Boulder	-	SpellBook.png	1.0	5.0		
+Character	-	down-Wizard.png	5.0	0.0		*is a bookcase*	  Bookcase		
+Character	-	down-Bookcase.png	7.0	0.0		Oh dear, I seem to have swapped myself into this bookcase...	  Wizard		
+PanelRotater	Rotate-Z	rotatebutton.png	8.0	-1.0		
+PanelRotater	Rotate-Y	rotatebutton.png	9.0	7.0		
+

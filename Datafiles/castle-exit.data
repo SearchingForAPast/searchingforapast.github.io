@@ -1,0 +1,38 @@
+-4
+4
+-9
+1
+Castle.mp3
+Decoration	-	stairs_up_castle.png	0.0	0.0		false		
+Decoration	-	stairs_up_castle.png	0.0	-9.0		false		
+
+CastleStone	-	IceStoneButton.png	-2.0	-2.0		
+Base	-	Castle_bricks.png	-1.0	-8.0		
+Base	-	Castle_bricks.png	-1.0	-7.0		
+Base	-	Castle_bricks.png	-1.0	-6.0		
+Base	-	Castle_bricks.png	-1.0	-5.0		
+Base	-	Castle_bricks.png	-1.0	-3.0		
+Base	-	Castle_bricks.png	-1.0	-2.0		
+Base	-	Castle_bricks.png	-1.0	-1.0		
+LoadNew	from-castle-6	Castle_bricks.png	0.0	-9.0		castle-6		
+Base	-	Castle_bricks.png	0.0	-8.0		
+Base	-	Castle_bricks.png	0.0	-7.0		
+Base	-	Castle_bricks.png	0.0	-6.0		
+Base	-	Castle_bricks.png	0.0	-5.0		
+CastleGate	-	Gate.png	0.0	-4.0		
+Base	-	Castle_bricks.png	0.0	-3.0		
+Base	-	Castle_bricks.png	0.0	-2.0		
+Base	-	Castle_bricks.png	0.0	-1.0		
+LoadNew	from-castle-entrance;from-start	Castle_bricks.png	0.0	0.0		castle-entrance		
+Base	-	Castle_bricks.png	1.0	-8.0		
+Base	-	Castle_bricks.png	1.0	-7.0		
+Base	-	Castle_bricks.png	1.0	-6.0		
+Base	-	Castle_bricks.png	1.0	-5.0		
+Base	-	Castle_bricks.png	1.0	-3.0		
+Base	-	Castle_bricks.png	1.0	-2.0		
+Base	-	Castle_bricks.png	1.0	-1.0		
+
+
+Character	-	down-character.png	-1.0	-7.0		Wow, look at you, you've broken every single glass pane in this castle except one.;Don't you feel proud of yourself?;Well, we aren't letting you break this last tile.;HA! How do you like that!	     Fine Arts Protection Soldier		
+Character	-	down-character.png	-1.0	-2.0		Hm? You want to break that window behind me? Well, no one's getting by me, I refuse to budge! That means you can't get by me! If you could, that would be sequence breaking!	        Fine Arts Protection Soldier		
+

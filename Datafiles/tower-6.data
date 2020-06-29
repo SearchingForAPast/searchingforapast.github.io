@@ -1,0 +1,144 @@
+-2
+11
+-2
+11
+Tower.mp3
+Decoration	-	stairs_down_tower.png	5.0	10.0		false		
+
+TeleportPad	reset_b	teleportpad.png	-2.0	-1.0		
+Base	-	brick.png	-2.0	0.0		
+LoadNew	From-tower-exit	stairs_down_tower.png	-1.0	-1.0		tower-exit		
+Base	-	brick.png	-1.0	0.0		
+Base	-	brick.png	0.0	-1.0		
+Base	-	brick.png	0.0	0.0		
+TeleportPad	blocker_b	teleportpad.png	0.0	1.0		
+MovePad	C	movepadright.png	0.0	2.0		1	0		
+MovePad	-	movepadup.png	0.0	3.0		0	-1		
+MovePad	-	movepadup.png	0.0	4.0		0	-1		
+MovePad	E	movepadright.png	0.0	5.0		1	0		
+MovePad	-	movepadup.png	0.0	6.0		0	-1		
+MovePad	-	movepadup.png	0.0	7.0		0	-1		
+MovePad	-	movepadup.png	0.0	8.0		0	-1		
+MovePad	-	movepadup.png	0.0	9.0		0	-1		
+MovePad	-	movepadright.png	1.0	-1.0		1	0		
+MovePad	-	movepadup.png	1.0	0.0		0	-1		
+MovePad	-	movepadup.png	1.0	1.0		0	-1		
+MovePad	-	movepadup.png	1.0	2.0		0	-1		
+Base	-	brick.png	1.0	3.0		
+Base	-	brick.png	1.0	4.0		
+MovePad	-	movepaddown.png	1.0	5.0		0	1		
+Base	-	brick.png	1.0	6.0		
+Base	-	brick.png	1.0	7.0		
+Base	-	brick.png	1.0	8.0		
+MovePad	-	movepadleft.png	1.0	9.0		-1	0		
+MovePad	-	movepadright.png	2.0	-1.0		1	0		
+Base	-	brick.png	2.0	0.0		
+Base	-	brick.png	2.0	1.0		
+MovePad	-	movepaddown.png	2.0	2.0		0	1		
+Base	-	brick.png	2.0	3.0		
+Base	-	brick.png	2.0	4.0		
+MovePad	-	movepadright.png	2.0	5.0		1	0		
+Base	-	brick.png	2.0	6.0		
+Base	-	brick.png	2.0	7.0		
+Base	-	brick.png	2.0	8.0		
+MovePad	p1	movepadleft.png	2.0	9.0		-1	0		
+MovePad	-	movepadright.png	3.0	-1.0		1	0		
+TeleportPad	blocker_A	teleportpad.png	3.0	0.0		
+Base	-	brick.png	3.0	1.0		
+MovePad	-	movepaddown.png	3.0	2.0		0	1		
+MovePad	-	movepaddown.png	3.0	3.0		0	1		
+MovePad	-	movepaddown.png	3.0	4.0		0	1		
+MovePad	D	movepadright.png	3.0	5.0		1	0		
+MovePad	-	movepaddown.png	3.0	6.0		0	1		
+MovePad	-	movepaddown.png	3.0	7.0		0	1		
+MovePad	-	movepaddown.png	3.0	8.0		0	1		
+MovePad	-	movepadleft.png	3.0	9.0		-1	0		
+MovePad	-	movepadright.png	4.0	-1.0		1	0		
+MovePad	-	movepaddown.png	4.0	0.0		0	1		
+MovePad	-	movepaddown.png	4.0	1.0		0	1		
+MovePad	A	movepadleft.png	4.0	2.0		-1	0		
+MovePad	-	movepadright.png	4.0	3.0		1	0		
+Base	-	brick.png	4.0	4.0		
+MovePad	-	movepaddown.png	4.0	5.0		0	1		
+MovePad	-	movepadright.png	4.0	6.0		1	0		
+Base	-	brick.png	4.0	7.0		
+Base	-	brick.png	4.0	8.0		
+MovePad	-	movepadleft.png	4.0	9.0		-1	0		
+MovePad	-	movepaddown.png	5.0	-1.0		0	1		
+Base	-	brick.png	5.0	0.0		
+Base	-	brick.png	5.0	1.0		
+MovePad	-	movepadright.png	5.0	2.0		1	0		
+Base	-	brick.png	5.0	3.0		
+Base	-	brick.png	5.0	4.0		
+MovePad	-	movepadup.png	5.0	5.0		0	-1		
+MovePad	-	movepadright.png	5.0	6.0		1	0		
+MovePad	-	movepadup.png	5.0	7.0		0	-1		
+MovePad	-	movepadup.png	5.0	8.0		0	-1		
+TeleportPad	reset_A	teleportpad.png	5.0	9.0		
+LoadNew	From-tower-5;from-Start	brick.png	5.0	10.0		tower-5		
+MovePad	-	movepadleft.png	6.0	-1.0		-1	0		
+Base	-	brick.png	6.0	0.0		
+Base	-	brick.png	6.0	1.0		
+MovePad	-	movepadright.png	6.0	2.0		1	0		
+MovePad	-	movepadup.png	6.0	3.0		0	-1		
+MovePad	-	movepadup.png	6.0	4.0		0	-1		
+MovePad	-	movepadup.png	6.0	5.0		0	-1		
+MovePad	-	movepadright.png	6.0	6.0		1	0		
+Base	-	brick.png	6.0	7.0		
+Base	-	brick.png	6.0	8.0		
+MovePad	-	movepadright.png	6.0	9.0		1	0		
+MovePad	-	movepadleft.png	7.0	-1.0		-1	0		
+MovePad	-	movepadup.png	7.0	0.0		0	-1		
+MovePad	-	movepadup.png	7.0	1.0		0	-1		
+MovePad	-	movepadup.png	7.0	2.0		0	-1		
+MovePad	-	movepadright.png	7.0	3.0		1	0		
+MovePad	-	movepadup.png	7.0	4.0		0	-1		
+MovePad	-	movepadup.png	7.0	5.0		0	-1		
+MovePad	B	movepadright.png	7.0	6.0		1	0		
+MovePad	-	movepaddown.png	7.0	7.0		0	1		
+MovePad	-	movepaddown.png	7.0	8.0		0	1		
+MovePad	-	movepadright.png	7.0	9.0		1	0		
+MovePad	-	movepadleft.png	8.0	-1.0		-1	0		
+Base	-	brick.png	8.0	0.0		
+Base	-	brick.png	8.0	1.0		
+Base	-	brick.png	8.0	2.0		
+MovePad	-	movepadup.png	8.0	3.0		0	-1		
+Base	-	brick.png	8.0	4.0		
+MovePad	-	movepadright.png	8.0	5.0		1	0		
+MovePad	-	movepadup.png	8.0	6.0		0	-1		
+Base	-	brick.png	8.0	7.0		
+Base	-	brick.png	8.0	8.0		
+MovePad	-	movepadup.png	8.0	9.0		0	-1		
+MovePad	-	movepadleft.png	9.0	-1.0		-1	0		
+Base	-	brick.png	9.0	0.0		
+Base	-	brick.png	9.0	1.0		
+Base	-	brick.png	9.0	2.0		
+MovePad	-	movepadright.png	9.0	3.0		1	0		
+Base	-	brick.png	9.0	4.0		
+Base	-	brick.png	9.0	5.0		
+MovePad	-	movepadright.png	9.0	6.0		1	0		
+Base	-	brick.png	9.0	7.0		
+Base	-	brick.png	9.0	8.0		
+MovePad	-	movepadright.png	9.0	9.0		1	0		
+MovePad	-	movepadleft.png	10.0	-1.0		-1	0		
+MovePad	-	movepadup.png	10.0	0.0		0	-1		
+MovePad	-	movepadup.png	10.0	1.0		0	-1		
+MovePad	-	movepadup.png	10.0	2.0		0	-1		
+MovePad	-	movepadup.png	10.0	3.0		0	-1		
+MovePad	-	movepadup.png	10.0	4.0		0	-1		
+MovePad	-	movepadup.png	10.0	5.0		0	-1		
+MovePad	-	movepadup.png	10.0	6.0		0	-1		
+MovePad	-	movepadup.png	10.0	7.0		0	-1		
+MovePad	-	movepadup.png	10.0	8.0		0	-1		
+MovePad	-	movepadup.png	10.0	9.0		0	-1		
+
+
+Memory	TowerCutscene.mp4	Memory.gif	0.0	-1.0		
+Character	-	down-Wizard.png	2.0	4.0		Ah!;I see you've found your way to my square!;I have good news and bad news for you.;The bad news is, from this square, I ther is probably no way to win, and you'll have to reset the level.;The good news is I've consumed a potion of memory loss, so I have forgotten whatever horrors you've done to me.	    Wizard		
+PanelRotater	Rotate-B	rotatebutton.png	4.0	4.0		
+PanelRotater	Rotate-A	rotatebutton.png	6.0	1.0		
+PanelRotater	Rotate-C	rotatebutton.png	8.0	4.0		
+PanelRotater	Rotate-E	rotatebutton.png	8.0	7.0		
+Boulder	-	SpellBook.png	9.0	1.0		
+PanelRotater	Rotate-D	rotatebutton.png	9.0	7.0		
+

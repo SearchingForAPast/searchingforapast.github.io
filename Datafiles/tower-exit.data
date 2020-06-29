@@ -1,0 +1,124 @@
+0
+11
+-2
+11
+Tower.mp3
+Decoration	-	stairs_up_tower.png	5.0	10.0		false		
+Decoration	-	stairs_up_tower.png	0.0	0.0		false		
+
+LoadNew	From-tower-6	brick.png	0.0	0.0		tower-6		
+Base	-	brick.png	0.0	1.0		
+Base	-	brick.png	0.0	2.0		
+Base	-	brick.png	0.0	3.0		
+Wall	-	Bookcase.png	0.0	4.0		
+Base	-	brick.png	0.0	5.0		
+Base	-	brick.png	0.0	6.0		
+Base	-	brick.png	0.0	7.0		
+Base	-	brick.png	0.0	8.0		
+Base	-	brick.png	0.0	9.0		
+Base	-	brick.png	1.0	0.0		
+Base	-	brick.png	1.0	1.0		
+Base	-	brick.png	1.0	2.0		
+Base	-	brick.png	1.0	3.0		
+Wall	-	Bookcase.png	1.0	4.0		
+Base	-	brick.png	1.0	5.0		
+Base	-	brick.png	1.0	6.0		
+TeleportPad	teleport_A	teleportpad.png	1.0	7.0		
+Base	-	brick.png	1.0	8.0		
+Base	-	brick.png	1.0	9.0		
+Base	-	brick.png	2.0	0.0		
+Base	-	brick.png	2.0	1.0		
+Base	-	brick.png	2.0	2.0		
+Base	-	brick.png	2.0	3.0		
+Wall	-	Bookcase.png	2.0	4.0		
+Base	-	brick.png	2.0	5.0		
+Base	-	brick.png	2.0	6.0		
+Base	-	brick.png	2.0	7.0		
+Base	-	brick.png	2.0	8.0		
+Base	-	brick.png	2.0	9.0		
+Base	-	brick.png	3.0	0.0		
+Base	-	brick.png	3.0	1.0		
+Base	-	brick.png	3.0	2.0		
+Base	-	brick.png	3.0	3.0		
+Wall	-	Bookcase.png	3.0	4.0		
+Base	-	brick.png	3.0	5.0		
+Base	-	brick.png	3.0	6.0		
+Base	-	brick.png	3.0	7.0		
+Base	-	brick.png	3.0	8.0		
+Base	-	brick.png	3.0	9.0		
+Base	-	brick.png	4.0	0.0		
+Base	-	brick.png	4.0	1.0		
+Base	-	brick.png	4.0	2.0		
+Base	-	brick.png	4.0	3.0		
+Wall	-	Bookcase.png	4.0	4.0		
+Base	-	brick.png	4.0	5.0		
+Base	-	brick.png	4.0	6.0		
+Base	-	brick.png	4.0	7.0		
+Base	-	brick.png	4.0	8.0		
+Base	-	brick.png	4.0	9.0		
+Base	-	brick.png	5.0	0.0		
+Base	-	brick.png	5.0	1.0		
+Base	-	brick.png	5.0	2.0		
+Base	-	brick.png	5.0	3.0		
+Wall	-	Bookcase.png	5.0	4.0		
+Base	-	brick.png	5.0	5.0		
+Base	-	brick.png	5.0	6.0		
+Base	-	brick.png	5.0	7.0		
+Base	-	brick.png	5.0	8.0		
+Base	From-overworld	brick.png	5.0	9.0		
+LoadNew	From-start;From-tower-entrance	brick.png	5.0	10.0		tower-entrance		
+Base	-	brick.png	6.0	0.0		
+Base	-	brick.png	6.0	1.0		
+Base	-	brick.png	6.0	2.0		
+Base	-	brick.png	6.0	3.0		
+Wall	-	Bookcase.png	6.0	4.0		
+Base	-	brick.png	6.0	5.0		
+Base	-	brick.png	6.0	6.0		
+Base	-	brick.png	6.0	7.0		
+Base	-	brick.png	6.0	8.0		
+Base	-	brick.png	6.0	9.0		
+Base	-	brick.png	7.0	0.0		
+Base	-	brick.png	7.0	1.0		
+Base	-	brick.png	7.0	2.0		
+Base	-	brick.png	7.0	3.0		
+Wall	-	Bookcase.png	7.0	4.0		
+Base	-	brick.png	7.0	5.0		
+Base	-	brick.png	7.0	6.0		
+Base	-	brick.png	7.0	7.0		
+Base	-	brick.png	7.0	8.0		
+Base	-	brick.png	7.0	9.0		
+Base	-	brick.png	8.0	0.0		
+Base	-	brick.png	8.0	1.0		
+Base	-	brick.png	8.0	2.0		
+Base	-	brick.png	8.0	3.0		
+Wall	-	Bookcase.png	8.0	4.0		
+Base	-	brick.png	8.0	5.0		
+Base	-	brick.png	8.0	6.0		
+Base	-	brick.png	8.0	7.0		
+Base	-	brick.png	8.0	8.0		
+Base	-	brick.png	8.0	9.0		
+Base	-	brick.png	9.0	0.0		
+Base	-	brick.png	9.0	1.0		
+TeleportPad	teleport_B	teleportpad.png	9.0	2.0		
+Base	-	brick.png	9.0	3.0		
+Wall	-	Bookcase.png	9.0	4.0		
+Base	-	brick.png	9.0	5.0		
+Base	-	brick.png	9.0	6.0		
+Base	-	brick.png	9.0	7.0		
+Base	-	brick.png	9.0	8.0		
+Base	-	brick.png	9.0	9.0		
+Base	-	brick.png	10.0	0.0		
+Base	-	brick.png	10.0	1.0		
+Base	-	brick.png	10.0	2.0		
+Base	-	brick.png	10.0	3.0		
+Wall	-	Bookcase.png	10.0	4.0		
+Base	-	brick.png	10.0	5.0		
+Base	-	brick.png	10.0	6.0		
+Base	-	brick.png	10.0	7.0		
+Base	-	brick.png	10.0	8.0		
+Base	-	brick.png	10.0	9.0		
+
+
+Character	-	down-Wizard.png	2.0	7.0		Oops!;I pushed the book onto the teleport pad...;looks like someone will have to go around and push it off from the other side.	  Wizard		
+Boulder	-	SpellBook.png	9.0	2.0		
+

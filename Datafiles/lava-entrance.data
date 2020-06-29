@@ -1,0 +1,39 @@
+0
+4
+0
+7
+Volcano.mp3
+Decoration	-	down.png	1.0	6.0		false		
+Decoration	-	lava_stairs.png	1.0	0.0		false		
+
+Base	-	lava_rock.png	0.0	0.0		
+Base	-	lava_rock.png	0.0	1.0		
+Lava	-	LavaTBL.png	0.0	2.0		
+Base	-	lava_rock.png	0.0	3.0		
+Base	-	lava_rock.png	0.0	4.0		
+Base	-	lava_rock.png	0.0	5.0		
+LoadNew	from-lava-1	lava_rock.png	1.0	0.0		lava-1		
+Base	-	lava_rock.png	1.0	1.0		
+Lava	-	LavaTB.png	1.0	2.0		
+Base	-	lava_rock.png	1.0	3.0		
+Base	-	lava_rock.png	1.0	4.0		
+Base	from-overworld	lava_rock.png	1.0	5.0		
+LoadNew	from-start;from-overworld	lava_rock.png	1.0	6.0		overworld		
+Base	-	lava_rock.png	2.0	0.0		
+Base	-	lava_rock.png	2.0	1.0		
+Lava	-	LavaTB.png	2.0	2.0		
+Base	-	lava_rock.png	2.0	3.0		
+Base	-	lava_rock.png	2.0	4.0		
+Base	-	lava_rock.png	2.0	5.0		
+Base	-	lava_rock.png	3.0	0.0		
+Base	-	lava_rock.png	3.0	1.0		
+Lava	-	LavaTBR.png	3.0	2.0		
+Base	-	lava_rock.png	3.0	3.0		
+Base	-	lava_rock.png	3.0	4.0		
+LoadNew	From-lava-exit	lava_stairs.png	3.0	5.0		lava-exit		
+
+
+Boulder	-	boulder.png	0.0	3.0		
+Character	-	down-character.png	1.0	3.0		Hello! This is a volcano!;If you push the boulders into the lava, you can walk on them!	       Strange Man		
+Boulder	-	boulder.png	3.0	1.0		
+

@@ -1,0 +1,127 @@
+0
+11
+-2
+11
+Tower.mp3
+Decoration	-	stairs_down_tower.png	5.0	10.0		false		
+Decoration	-	stairs_up_tower.png	0.0	0.0		false		
+
+LoadNew	from-tower-2	brick.png	0.0	0.0		tower-2		
+Base	-	brick.png	0.0	1.0		
+Base	-	brick.png	0.0	2.0		
+Base	-	brick.png	0.0	3.0		
+Base	-	brick.png	0.0	4.0		
+Base	-	brick.png	0.0	5.0		
+Base	-	brick.png	0.0	6.0		
+Base	-	brick.png	0.0	7.0		
+Base	-	brick.png	0.0	8.0		
+Base	-	brick.png	0.0	9.0		
+Base	-	brick.png	1.0	0.0		
+TeleportPad	right_B	teleportpad.png	1.0	1.0		
+Base	-	brick.png	1.0	2.0		
+Base	-	brick.png	1.0	3.0		
+Base	-	brick.png	1.0	4.0		
+Base	-	brick.png	1.0	5.0		
+Base	-	brick.png	1.0	6.0		
+Base	-	brick.png	1.0	7.0		
+Base	-	brick.png	1.0	8.0		
+Base	-	brick.png	1.0	9.0		
+Base	-	brick.png	2.0	0.0		
+Base	-	brick.png	2.0	1.0		
+TeleportPad	exit_B	teleportpad.png	2.0	2.0		
+Base	-	brick.png	2.0	3.0		
+Base	-	brick.png	2.0	4.0		
+Base	-	brick.png	2.0	5.0		
+Base	-	brick.png	2.0	6.0		
+Base	-	brick.png	2.0	7.0		
+Base	-	brick.png	2.0	8.0		
+TeleportPad	left_A	teleportpad.png	2.0	9.0		
+Base	-	brick.png	3.0	0.0		
+Base	-	brick.png	3.0	1.0		
+Base	-	brick.png	3.0	2.0		
+TeleportPad	up_B	teleportpad.png	3.0	3.0		
+Base	-	brick.png	3.0	4.0		
+Base	-	brick.png	3.0	5.0		
+Base	-	brick.png	3.0	6.0		
+Base	-	brick.png	3.0	7.0		
+Wall	-	Bookcase.png	3.0	8.0		
+MovePad	-	movepadleft.png	3.0	9.0		-3	0		
+Base	-	brick.png	4.0	0.0		
+Base	-	brick.png	4.0	1.0		
+Base	-	brick.png	4.0	2.0		
+Base	-	brick.png	4.0	3.0		
+Base	-	brick.png	4.0	4.0		
+Base	-	brick.png	4.0	5.0		
+Base	-	brick.png	4.0	6.0		
+Wall	-	Bookcase.png	4.0	7.0		
+Base	-	brick.png	4.0	8.0		
+MovePad	-	movepadright.png	4.0	9.0		1	0		
+Base	-	brick.png	5.0	0.0		
+Base	-	brick.png	5.0	1.0		
+TeleportPad	left_B	teleportpad.png	5.0	2.0		
+Base	-	brick.png	5.0	3.0		
+Base	-	brick.png	5.0	4.0		
+TeleportPad	up_A	teleportpad.png	5.0	5.0		
+MovePad	-	movepadup.png	5.0	6.0		0	-3		
+MovePad	-	movepaddown.png	5.0	7.0		0	1		
+Base	-	brick.png	5.0	8.0		
+Base	From-overworld	brick.png	5.0	9.0		
+LoadNew	From-tower-entrance;From-start	brick.png	5.0	10.0		tower-entrance		
+Base	-	brick.png	6.0	0.0		
+Base	-	brick.png	6.0	1.0		
+Base	-	brick.png	6.0	2.0		
+Base	-	brick.png	6.0	3.0		
+Base	-	brick.png	6.0	4.0		
+Base	-	brick.png	6.0	5.0		
+Base	-	brick.png	6.0	6.0		
+Wall	-	Bookcase.png	6.0	7.0		
+TeleportPad	exit_A	teleportpad.png	6.0	8.0		
+MovePad	-	movepadleft.png	6.0	9.0		-1	0		
+Base	-	brick.png	7.0	0.0		
+Base	-	brick.png	7.0	1.0		
+Base	-	brick.png	7.0	2.0		
+Base	-	brick.png	7.0	3.0		
+Base	-	brick.png	7.0	4.0		
+Base	-	brick.png	7.0	5.0		
+Base	-	brick.png	7.0	6.0		
+Base	-	brick.png	7.0	7.0		
+Wall	-	Bookcase.png	7.0	8.0		
+MovePad	-	movepadright.png	7.0	9.0		3	0		
+Base	-	brick.png	8.0	0.0		
+Wall	-	brick.png	8.0	1.0		
+Base	-	brick.png	8.0	2.0		
+Base	-	brick.png	8.0	3.0		
+Base	-	brick.png	8.0	4.0		
+Base	-	brick.png	8.0	5.0		
+Base	-	brick.png	8.0	6.0		
+Base	-	brick.png	8.0	7.0		
+Base	-	brick.png	8.0	8.0		
+TeleportPad	right_A	teleportpad.png	8.0	9.0		
+Base	-	brick.png	9.0	0.0		
+Base	-	brick.png	9.0	1.0		
+Base	-	brick.png	9.0	2.0		
+Base	-	brick.png	9.0	3.0		
+Base	-	brick.png	9.0	4.0		
+Base	-	brick.png	9.0	5.0		
+Base	-	brick.png	9.0	6.0		
+Base	-	brick.png	9.0	7.0		
+Base	-	brick.png	9.0	8.0		
+Base	-	brick.png	9.0	9.0		
+Base	-	brick.png	10.0	0.0		
+Base	-	brick.png	10.0	1.0		
+Base	-	brick.png	10.0	2.0		
+Base	-	brick.png	10.0	3.0		
+Base	-	brick.png	10.0	4.0		
+Base	-	brick.png	10.0	5.0		
+Base	-	brick.png	10.0	6.0		
+Base	-	brick.png	10.0	7.0		
+Base	-	brick.png	10.0	8.0		
+Base	-	brick.png	10.0	9.0		
+
+
+Boulder	-	SpellBook.png	2.0	2.0		
+Character	-	down-Wizard.png	4.0	8.0		The teleporter over to the right's corresponding teleporter seems to have a book on it.;If you see in the top left there's a book, the corresponding pad is under it.;I wonder if we could use these other books to knock it off...	   Wizard		
+Boulder	-	SpellBook.png	4.0	9.0		
+Boulder	-	SpellBook.png	5.0	7.0		
+Boulder	-	SpellBook.png	6.0	9.0		
+

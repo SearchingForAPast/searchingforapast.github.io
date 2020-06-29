@@ -1,0 +1,129 @@
+0
+11
+-2
+11
+Tower.mp3
+Decoration	-	stairs_down_tower.png	5.0	10.0		false		
+Decoration	-	Table.png	3.0	9.0		true		
+Decoration	-	Cauldron.png	1.0	9.0		true		
+Decoration	-	stairs_up_tower.png	0.0	9.0		false		
+
+Base	-	brick.png	0.0	0.0		
+Base	-	brick.png	0.0	1.0		
+Base	-	brick.png	0.0	2.0		
+Base	-	brick.png	0.0	3.0		
+Base	-	brick.png	0.0	4.0		
+Base	-	brick.png	0.0	5.0		
+Base	-	brick.png	0.0	6.0		
+Wall	-	Bookcase.png	0.0	7.0		
+TeleportPad	blocker2_a	teleportpad.png	0.0	8.0		
+LoadNew	From-tower-5	brick.png	0.0	9.0		tower-5		
+Base	-	brick.png	1.0	0.0		
+Base	-	brick.png	1.0	1.0		
+Base	-	brick.png	1.0	2.0		
+Base	-	brick.png	1.0	3.0		
+Base	-	brick.png	1.0	4.0		
+Base	-	brick.png	1.0	5.0		
+Base	-	brick.png	1.0	6.0		
+Wall	-	Bookcase.png	1.0	7.0		
+TeleportPad	portal2_A	teleportpad.png	1.0	8.0		
+Wall	-	brick.png	1.0	9.0		
+MovePad	-	movepaddown.png	2.0	0.0		0	3		
+Base	-	brick.png	2.0	1.0		
+Base	-	brick.png	2.0	2.0		
+MovePad	-	movepadright.png	2.0	3.0		6	0		
+Base	-	brick.png	2.0	4.0		
+Base	-	brick.png	2.0	5.0		
+Base	-	brick.png	2.0	6.0		
+Wall	-	Bookcase.png	2.0	7.0		
+TeleportPad	blocker_a	teleportpad.png	2.0	8.0		
+Base	-	brick.png	2.0	9.0		
+Base	-	brick.png	3.0	0.0		
+Base	-	brick.png	3.0	1.0		
+Base	-	brick.png	3.0	2.0		
+Base	-	brick.png	3.0	3.0		
+Base	-	brick.png	3.0	4.0		
+Base	-	brick.png	3.0	5.0		
+Base	-	brick.png	3.0	6.0		
+Wall	-	Bookcase.png	3.0	7.0		
+TeleportPad	portal_A	teleportpad.png	3.0	8.0		
+Wall	-	brick.png	3.0	9.0		
+Base	-	brick.png	4.0	0.0		
+Base	-	brick.png	4.0	1.0		
+TeleportPad	portal2_b	teleportpad.png	4.0	2.0		
+Base	-	brick.png	4.0	3.0		
+Base	-	brick.png	4.0	4.0		
+Base	-	brick.png	4.0	5.0		
+MovePad	-	movepadup.png	4.0	6.0		0	-3		
+MovePad	-	movepaddown.png	4.0	7.0		0	1		
+Base	-	brick.png	4.0	8.0		
+Base	-	brick.png	4.0	9.0		
+Base	-	brick.png	5.0	0.0		
+Base	-	brick.png	5.0	1.0		
+TeleportPad	portal_b	teleportpad.png	5.0	2.0		
+Base	-	brick.png	5.0	3.0		
+Base	-	brick.png	5.0	4.0		
+Base	-	brick.png	5.0	5.0		
+MovePad	-	movepadup.png	5.0	6.0		0	-3		
+MovePad	-	movepaddown.png	5.0	7.0		0	1		
+Base	-	brick.png	5.0	8.0		
+Base	From-overworld	brick.png	5.0	9.0		
+LoadNew	From-tower-3;From-Start	brick.png	5.0	10.0		tower-3		
+Base	-	brick.png	6.0	0.0		
+Base	-	brick.png	6.0	1.0		
+Base	-	brick.png	6.0	2.0		
+Base	-	brick.png	6.0	3.0		
+Base	-	brick.png	6.0	4.0		
+Base	-	brick.png	6.0	5.0		
+MovePad	-	movepadright.png	6.0	6.0		2	0		
+MovePad	-	movepaddown.png	6.0	7.0		0	1		
+Base	-	brick.png	6.0	8.0		
+Base	-	brick.png	6.0	9.0		
+Base	-	brick.png	7.0	0.0		
+Base	-	brick.png	7.0	1.0		
+Base	-	brick.png	7.0	2.0		
+Base	-	brick.png	7.0	3.0		
+Base	-	brick.png	7.0	4.0		
+Base	-	brick.png	7.0	5.0		
+Base	-	brick.png	7.0	6.0		
+Wall	-	Bookcase.png	7.0	7.0		
+Base	-	brick.png	7.0	8.0		
+Base	-	brick.png	7.0	9.0		
+MovePad	-	movepadleft.png	8.0	0.0		-6	0		
+Base	-	brick.png	8.0	1.0		
+Base	-	brick.png	8.0	2.0		
+MovePad	-	movepadup.png	8.0	3.0		0	-3		
+Base	-	brick.png	8.0	4.0		
+Base	-	brick.png	8.0	5.0		
+MovePad	-	movepadup.png	8.0	6.0		0	-4		
+Wall	-	Bookcase.png	8.0	7.0		
+Base	-	brick.png	8.0	8.0		
+Base	-	brick.png	8.0	9.0		
+Base	-	brick.png	9.0	0.0		
+Base	-	brick.png	9.0	1.0		
+Base	-	brick.png	9.0	2.0		
+Base	-	brick.png	9.0	3.0		
+Base	-	brick.png	9.0	4.0		
+Base	-	brick.png	9.0	5.0		
+Base	-	brick.png	9.0	6.0		
+Wall	-	Bookcase.png	9.0	7.0		
+Base	-	brick.png	9.0	8.0		
+Base	-	brick.png	9.0	9.0		
+Base	-	brick.png	10.0	0.0		
+Base	-	brick.png	10.0	1.0		
+Base	-	brick.png	10.0	2.0		
+Base	-	brick.png	10.0	3.0		
+Base	-	brick.png	10.0	4.0		
+Base	-	brick.png	10.0	5.0		
+Base	-	brick.png	10.0	6.0		
+Wall	-	Bookcase.png	10.0	7.0		
+TeleportPad	blocker_B	teleportpad.png	10.0	8.0		
+TeleportPad	blocker2_B	teleportpad.png	10.0	9.0		
+
+
+Boulder	-	SpellBook.png	4.0	7.0		
+Boulder	-	SpellBook.png	5.0	7.0		
+Boulder	-	SpellBook.png	6.0	7.0		
+Character	-	down-Wizard.png	7.0	8.0		If you push the book on the right, the books will start flying around.;You might be able to knock them over to the teleporters if you hit them with one of the other books.	 Wizard		
+Boulder	-	SpellBook.png	8.0	4.0		
+

@@ -1,0 +1,44 @@
+-8
+8
+-8
+7
+Winter_Dungeon_Bells.mp3
+Decoration	-	stairs_up_ice.png	-5.0	-2.0		false		
+Decoration	-	stairs_up_ice.png	-5.0	6.0		false		
+
+Base	-	IceStone.png	-6.0	-3.0		
+Base	-	IceStone.png	-6.0	-2.0		
+Base	-	IceStone.png	-5.0	-3.0		
+LoadNew	From-ice-6	IceStone.png	-5.0	-2.0		ice-6		
+LoadNew	From-Start;From-ice-entrance	IceStone.png	-5.0	6.0		ice-entrance		
+Base	-	IceStone.png	-4.0	-3.0		
+Base	-	IceStone.png	-4.0	-2.0		
+Base	-	IceStone.png	-4.0	0.0		
+Base	-	IceStone.png	-4.0	1.0		
+Base	-	IceStone.png	-4.0	2.0		
+Base	-	IceStone.png	-4.0	3.0		
+Base	-	IceStone.png	-4.0	4.0		
+Base	-	IceStone.png	-4.0	5.0		
+Base	-	IceStone.png	-4.0	6.0		
+Ice	-	ice.png	-3.0	-2.0		
+Base	-	IceStone.png	-3.0	0.0		
+Base	-	IceStone.png	-3.0	1.0		
+Base	-	IceStone.png	-3.0	2.0		
+Base	-	IceStone.png	-3.0	3.0		
+Base	-	IceStone.png	-3.0	4.0		
+Base	-	IceStone.png	-3.0	5.0		
+Base	-	IceStone.png	-3.0	6.0		
+Ice	-	ice.png	-2.0	-3.0		
+Ice	-	ice.png	-2.0	-2.0		
+Ice	-	ice.png	-2.0	-1.0		
+Base	-	IceStone.png	-2.0	0.0		
+Base	-	IceStone.png	-2.0	1.0		
+Base	-	IceStone.png	-2.0	2.0		
+Base	-	IceStone.png	-2.0	3.0		
+Base	-	IceStone.png	-2.0	4.0		
+Base	-	IceStone.png	-2.0	5.0		
+Base	-	IceStone.png	-2.0	6.0		
+
+
+IcicleNPC	-	left-icicle.png	-4.0	2.0		Can't you leave us alone?;I'm going to have to have a stern word with my brother upstairs later...	  Icicle Person		
+

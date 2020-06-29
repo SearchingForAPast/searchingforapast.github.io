@@ -1,0 +1,90 @@
+0
+11
+0
+9
+overworld.mp3
+
+Base	-	down-dragon.png	0.0	0.0		
+Base	-	down-dragon.png	0.0	1.0		
+Base	-	down-dragon.png	0.0	2.0		
+Base	-	down-dragon.png	0.0	3.0		
+Base	-	down-dragon.png	0.0	4.0		
+Base	-	down-dragon.png	0.0	5.0		
+Base	-	down-dragon.png	0.0	6.0		
+Base	-	overworld.png	0.0	7.0		
+Base	-	down-dragon.png	1.0	0.0		
+Base	-	down-dragon.png	1.0	1.0		
+Base	-	down-dragon.png	1.0	2.0		
+End	-	down-dragon.png	1.0	3.0		beginning		
+Base	From-beginning	down-dragon.png	1.0	4.0		
+Base	-	down-dragon.png	1.0	5.0		
+Base	-	down-dragon.png	1.0	6.0		
+Base	-	down-dragon.png	1.0	7.0		
+LoadNew	-	down-dragon.png	2.0	0.0		end		
+Base	from-end;from-start	down-dragon.png	2.0	1.0		
+Base	-	down-dragon.png	2.0	2.0		
+Base	-	down-dragon.png	2.0	3.0		
+Base	-	down-dragon.png	2.0	4.0		
+LoadNew	-	down-dragon.png	2.0	5.0		tower-entrance		
+Base	From-tower-entrance	down-dragon.png	2.0	6.0		
+Base	-	down-dragon.png	2.0	7.0		
+Base	-	down-dragon.png	3.0	0.0		
+Base	-	down-dragon.png	3.0	1.0		
+Base	-	down-dragon.png	3.0	2.0		
+Base	from-forest-entrance	down-dragon.png	3.0	3.0		
+LoadNew	-	down-dragon.png	3.0	4.0		forest-entrance		
+Base	-	down-dragon.png	3.0	5.0		
+Base	-	down-dragon.png	3.0	6.0		
+Base	-	down-dragon.png	3.0	7.0		
+LoadNew	-	down-dragon.png	4.0	0.0		ice-entrance		
+Base	from-ice-entrance	down-dragon.png	4.0	1.0		
+Base	-	down-dragon.png	4.0	2.0		
+Base	-	down-dragon.png	4.0	3.0		
+Base	-	down-dragon.png	4.0	4.0		
+Base	-	down-dragon.png	4.0	5.0		
+Base	-	down-dragon.png	4.0	6.0		
+Base	-	down-dragon.png	4.0	7.0		
+Base	-	down-dragon.png	5.0	0.0		
+Base	-	down-dragon.png	5.0	1.0		
+Base	-	down-dragon.png	5.0	2.0		
+Base	-	down-dragon.png	5.0	3.0		
+LoadNew	-	down-dragon.png	5.0	4.0		castle-entrance		
+Base	From-castle-entrance	down-dragon.png	5.0	5.0		
+Base	-	down-dragon.png	5.0	6.0		
+Base	-	down-dragon.png	5.0	7.0		
+Base	-	down-dragon.png	6.0	0.0		
+Base	-	down-dragon.png	6.0	1.0		
+Base	-	down-dragon.png	6.0	2.0		
+Base	-	down-dragon.png	6.0	3.0		
+Base	-	down-dragon.png	6.0	4.0		
+Base	-	down-dragon.png	6.0	5.0		
+Base	-	down-dragon.png	6.0	6.0		
+Base	-	down-dragon.png	6.0	7.0		
+Base	-	down-dragon.png	7.0	0.0		
+Base	-	down-dragon.png	7.0	1.0		
+Base	-	down-dragon.png	7.0	2.0		
+Base	-	down-dragon.png	7.0	3.0		
+Base	-	down-dragon.png	7.0	4.0		
+Base	-	down-dragon.png	7.0	5.0		
+Base	-	down-dragon.png	7.0	6.0		
+Base	-	down-dragon.png	7.0	7.0		
+Base	-	down-dragon.png	8.0	0.0		
+Base	-	down-dragon.png	8.0	1.0		
+Base	-	down-dragon.png	8.0	2.0		
+LoadNew	-	down-dragon.png	8.0	3.0		lava-entrance		
+Base	From-lava-entrance	down-dragon.png	8.0	4.0		
+Base	-	down-dragon.png	8.0	5.0		
+Base	-	down-dragon.png	8.0	6.0		
+Base	-	down-dragon.png	8.0	7.0		
+Base	-	down-dragon.png	9.0	0.0		
+Base	-	down-dragon.png	9.0	1.0		
+Base	-	down-dragon.png	9.0	2.0		
+Base	-	down-dragon.png	9.0	3.0		
+Base	-	down-dragon.png	9.0	4.0		
+Base	-	down-dragon.png	9.0	5.0		
+Base	-	down-dragon.png	9.0	6.0		
+Base	-	down-dragon.png	9.0	7.0		
+
+
+Character	Explorer	down-Explorer.png	3.0	2.0		This world is fairly open in that you can go through the areas in any order.;However, my recommendation is that the areas from easiest to hardest are the Castle, the Volcano, the Ice Cave, the Forest, and then the Wizard Tower.;Also, just a tip, each area has 6 main puzzle rooms, plus an entrance and an exit.	   Explorer		
+

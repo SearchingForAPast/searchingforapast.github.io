@@ -1,0 +1,37 @@
+0
+4
+0
+7
+Volcano.mp3
+Decoration	-	stairs_up_castle.png	1.0	6.0		false		
+Decoration	-	stairs_up_castle.png	1.0	0.0		false		
+
+Base	-	lava_rock.png	0.0	0.0		
+Base	-	lava_rock.png	0.0	1.0		
+Lava	-	LavaTBL.png	0.0	2.0		
+Base	-	lava_rock.png	0.0	3.0		
+Base	-	lava_rock.png	0.0	4.0		
+Base	-	lava_rock.png	0.0	5.0		
+LoadNew	from-lava-6	lava_rock.png	1.0	0.0		lava-6		
+Base	-	lava_rock.png	1.0	1.0		
+Lava	-	LavaTB.png	1.0	2.0		
+Base	-	lava_rock.png	1.0	3.0		
+Base	-	lava_rock.png	1.0	4.0		
+Base	from-overworld	lava_rock.png	1.0	5.0		
+LoadNew	from-start;from-lava-entrance	lava_rock.png	1.0	6.0		lava-entrance		
+Base	-	lava_rock.png	2.0	0.0		
+Base	-	lava_rock.png	2.0	1.0		
+Lava	-	LavaTB.png	2.0	2.0		
+Base	-	lava_rock.png	2.0	3.0		
+Base	-	lava_rock.png	2.0	4.0		
+Base	-	lava_rock.png	2.0	5.0		
+Base	-	lava_rock.png	3.0	0.0		
+Base	-	lava_rock.png	3.0	1.0		
+Lava	-	LavaTBR.png	3.0	2.0		
+Base	-	lava_rock.png	3.0	3.0		
+Base	-	lava_rock.png	3.0	4.0		
+Base	-	lava_rock.png	3.0	5.0		
+
+
+Boulder	-	boulder.png	3.0	1.0		
+
