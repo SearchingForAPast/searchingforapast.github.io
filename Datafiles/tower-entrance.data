@@ -121,5 +121,5 @@ LoadNew	From-tower-exit	stairs_down_tower.png	10.0	9.0		tower-exit
 
 Boulder	-	SpellBook.png	2.0	7.0		
 PanelRotater	Rotate-panel	rotatebutton.png	5.0	1.0		
-Character	-	down-Wizard.png	8.0	1.0		Careful!;If you push a book onto a teleport pad, it will block it and you won't be able to go through it.;This area is just an area where you can see how things work.;Just walk up the stairs on the left to start climbing the tower;	   Wizard	
+Character	-	down-Wizard.png	8.0	1.0		Careful!;If you push a book onto a teleport pad, it will block it and you won't be able to go through it.;This area is just an area where you can see how things work.;Just walk up the stairs on the left to start climbing the tower;	   Wizard		
 
