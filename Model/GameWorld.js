@@ -39,6 +39,7 @@ function getWorld()
 WORLD = getWorld;
 class GameWorld {
 	constructor() {
+		this.volume = 0.5;
 		this.lastlevel = "Start";
 		this.interactables = [[null]];
 		this.tiles = [[null]];
@@ -81,7 +82,7 @@ class GameWorld {
 			for(var i = Math.max(this.startx, w1); i < Math.min(w2, this.startx - this.interactables.length); i++)
 				for(var j = 0; j < temp[i].length; j++)
 					temp[i-w1][j] = this[vars[k]][i-startx][j];
-			this[vars[k]] = temp;
+			this[vars[k]] = temp;this.volume
 			this.startx = w1;
 			this.updateBinding();
 		}
@@ -127,7 +128,7 @@ class GameWorld {
 			else
 			{
 				this.hero.enableMenu();
-				this.menu.node.attr('visibility', 'hidden');
+				this.menu.node.attr('visibility', 'hidden');this.volume
 				this.pane.node.attr('visibility', 'visible');
 				this.hero.enableMovement(new Action());
 				if(this.menuitem == 1)
@@ -283,9 +284,15 @@ class GameWorld {
 			then();
 		}
 	}
-	
+	updateVolume(num)
+	{
+		num = num / 100.0;
+		this.volume = num;
+		this.sound.volume = num;
+	}
 	playSound(sound, then) {
 		var a = new Audio("Audio/"+sound);
+		a.volume = this.volume;
 		a.onerror = ()=>{then.start()};
 		a.onended = ()=>{then.start()};
 		a.play();
@@ -303,6 +310,7 @@ class GameWorld {
 		{
 			this.sound = new Audio(sound);
 			this.sound.loop = true;
+			this.sound.volume = this.volume;
 			this.sound.play();
 		}
 		this.last = sound;
