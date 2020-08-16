@@ -28,7 +28,7 @@ function getWorld()
 		world = new GameWorld();
 		window.onresize = function() {
 			width = (window.innerWidth - 50)/getWorld().tiles.length;
-			height = (window.innerHeight - 50)/getWorld().tiles[0].length;
+			height = (window.innerHeight - 150)/getWorld().tiles[0].length;
 			scale = Math.min(width, height);
 			d3.select('svg').attr('width', scale*getWorld().tiles.length).attr('height', scale*getWorld().tiles[0].length);
 		};
@@ -390,7 +390,7 @@ class GameWorld {
 				this.savesave();
 			
 			width = (window.innerWidth - 50)/getWorld().tiles.length;
-			height = (window.innerHeight - 50)/getWorld().tiles[0].length;
+			height = (window.innerHeight - 150)/getWorld().tiles[0].length;
 			scale = Math.min(width, height);
 			d3.select('svg').attr('width', scale*getWorld().tiles.length).attr('height', scale*getWorld().tiles[0].length);
 			
